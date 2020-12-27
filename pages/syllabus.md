@@ -5,11 +5,11 @@ permalink: /syllabus/
 ---
 
 |--|--|
-| **Term** | Fall, 2020 |
+| **Term** | Winter, 2021 |
 | **Course** | CS 110: Intro to Computer Programming with Python |
 | **Prerequisites** | None |
 | **Instructor** | Sarah Van Wart |
-| **Lecture Time** | Monday, Wednesday, & Friday, 10:20 - 11:10am |
+| **Lecture Time** | Monday, Wednesday, & Friday, 10:00 - 10:50am |
 | **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required.  |
 | **Lecture Location** | Online (for now) |
 
@@ -42,17 +42,12 @@ We have 22 peer mentors (undergraduates) and 2 graduate TAs to help you:
 ### Peer Mentors
 * Cooper Barth (cooperbarth2021@u.northwestern.edu)
 * Kieran Bondy (kieranbondy2021@u.northwestern.edu)
-* Anthony Chen (anthonychen2021.1@u.northwestern.edu)
-* Linxin Chen (linxinchen2021@u.northwestern.edu)
 * Chase Duvall (chaseduvall2023@u.northwestern.edu)
 * Olivier Gabison (oliviergabison2022@u.northwestern.edu)
 * Olivia Gallager (oliviagallager2021@u.northwestern.edu)
 * Camila Grisanti (camilagrisanti2022@u.northwestern.edu)
 * Kevin Hou (kevinhou2022@u.northwestern.edu)
-* Katherine Johns (katherinejohns2021@u.northwestern.edu)
 * Charlotte Jones (charlottejones2022@u.northwestern.edu)
-* Joshua Kennedy (joshuakennedy2021@u.northwestern.edu)
-* Emmy Khawsam-ang (nichareekhawsam-ang2021@u.northwestern.edu)
 * Gabrielle Klein (gabrielleklein2021@u.northwestern.edu)
 * Caroline Lobel (carolinelobel2022@u.northwestern.edu)
 * Andy Moran (carlosmoran2022@u.northwestern.edu)

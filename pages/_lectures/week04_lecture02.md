@@ -3,7 +3,7 @@ layout: lecture-two-column
 title: |
     Quiz Review: Expressions
 type: lecture
-draft: 0
+draft: 1
 num: 8
 description:
   - Operators & Data Types

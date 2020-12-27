@@ -5,7 +5,7 @@ title: |
 type: lecture
 num: 3
 show_schedule: 1
-draft: 0
+draft: 1
 description:
     - Some useful built-in functions
     - Parameters and arguments

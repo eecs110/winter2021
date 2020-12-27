@@ -5,7 +5,7 @@ type: lecture
 num: 2
 show_schedule: 1
 include_page: "extras/command_line.md"
-draft: 0
+draft: 1
 quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122964
 description:
     - Intro to the command line
