@@ -4,9 +4,9 @@ title: |
     Installation & Introductory Exercises
 abbreviation: HW1
 type: homework
-due_date: 2020-09-25
+due_date: 2021-01-19
 ordering: 1
-draft: 0
+draft: 1
 points: 8
 ---
 

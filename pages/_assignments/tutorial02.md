@@ -3,13 +3,13 @@ layout: assignment-two-column
 title: Practice with Functions
 type: tutorial
 abbreviation: Tutorial 2
-draft: 0
+draft: 1
 points: 3
 num: 2
 description: 
     - Practice creating custom functions
     - Intro to Tkinter
-due_date: 2020-09-30
+due_date: 2021-01-22
 ---
 
 <a class="nu-button" href="/winter2021/course-files/tutorials/tutorial02.zip" target="_blank">

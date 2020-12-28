@@ -5,7 +5,7 @@ abbreviation: HW0
 type: homework
 due_date: 2020-09-18
 ordering: 0
-draft: 0
+draft: 1
 points: 0
 ---
 

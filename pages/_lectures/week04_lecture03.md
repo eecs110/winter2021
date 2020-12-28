@@ -5,7 +5,7 @@ type: quiz
 description:
     - Quiz 1 of 3 (using the Lockdown Browser)
 draft: 1
-num: 9
+num: 1
 due_date: 2021-01-29
 
 ---
