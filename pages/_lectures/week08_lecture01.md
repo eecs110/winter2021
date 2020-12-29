@@ -7,7 +7,7 @@ description:
     - examining different file types
 type: lecture
 draft: 1
-num: 17
+num: 16
 due_date: 2021-02-22
 slides: 
    - title: "Working with Files"

@@ -6,7 +6,7 @@ type: homework
 due_date: 2021-01-26
 ordering: 1 
 points: 8
-draft: 1
+draft: 0
 ---
 
 <a class="nu-button" href="/winter2021/course-files/homework/hw02.zip" target="_blank">

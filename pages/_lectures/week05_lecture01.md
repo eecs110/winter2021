@@ -2,7 +2,7 @@
 layout: module
 title: Quiz 1 Review
 type: lecture
-num: 10
+num: 9
 draft: 1
 due_date: 2021-02-01
 description:

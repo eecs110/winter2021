@@ -7,7 +7,7 @@ description:
     - Understanding query parameters
 type: lecture
 draft: 1
-num: 23
+num: 22
 due_date: 2021-03-08
 exercise_url: "lecture26.zip"
 slides:

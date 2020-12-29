@@ -6,7 +6,7 @@ description:
     - Error handling
 type: lecture
 draft: 1
-num: 19
+num: 18
 due_date: 2021-02-26
 slides: 
    - title: "More Files & Strings + Error Handling"

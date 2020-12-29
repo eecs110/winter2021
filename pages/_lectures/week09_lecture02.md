@@ -6,7 +6,7 @@ description:
     - More practice with dictionaries
 type: lecture
 draft: 1
-num: 21
+num: 20
 due_date: 2021-03-03
 exercise_url: "lecture21.zip"
 slides:

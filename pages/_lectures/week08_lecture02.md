@@ -6,7 +6,7 @@ type: lecture
 draft: 1
 description:
     - Files continued
-num: 18
+num: 17
 due_date: 2021-02-24
 slides: 
    - title: "Supplementary Slides for Live Lecture"

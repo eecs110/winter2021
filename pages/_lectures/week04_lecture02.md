@@ -4,7 +4,7 @@ title: |
     Creating Your Own Functions: Part 2
 type: lecture
 draft: 1
-num: 8
+num: 7
 description:
   - More function practice (continuation from Monday)
 due_date: 2021-01-27

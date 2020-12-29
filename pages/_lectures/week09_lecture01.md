@@ -7,7 +7,7 @@ description:
     - Dictionaries as lookup tables
 type: lecture
 draft: 1
-num: 20
+num: 19
 due_date: 2021-03-01
 readings:
   - title: "Ch9: Dictionaries"

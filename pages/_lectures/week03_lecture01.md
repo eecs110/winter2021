@@ -3,7 +3,6 @@ layout: module
 title: Martin Luther King Jr. Day
 type: lecture
 draft: 1
-num: 4
 show_schedule: 1
 description:
   - No class

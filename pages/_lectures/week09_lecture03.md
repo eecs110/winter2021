@@ -8,7 +8,7 @@ description:
     - The "grouping algorithm"
 type: lecture
 draft: 1
-num: 22
+num: 21
 due_date: 2021-03-05
 exercise_url: "lecture23.zip"
 slides:

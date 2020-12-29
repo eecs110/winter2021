@@ -7,7 +7,7 @@ description:
     - What changes each time (optional)?
 type: lecture
 draft: 1
-num: 12
+num: 11
 due_date: 2021-02-08
 slides: 
    - title: "Repeating Tasks with Code: While Loops"

@@ -4,7 +4,7 @@ title: "More Practice: While Loops & If Statements"
 type: lecture
 draft: 1
 points: 4
-num: 13
+num: 12
 due_date: 2021-02-10
 description:
   - Practice using if / elif / else

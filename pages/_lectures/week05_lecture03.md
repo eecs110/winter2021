@@ -3,7 +3,7 @@ layout: module
 title: Conditional Execution & Boolean Logic
 type: lecture
 draft: 1
-num: 11
+num: 10
 description:
   - If / Else
   - Booleans

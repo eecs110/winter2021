@@ -7,7 +7,7 @@ description:
     - Click, drag, and keyboard events
 type: lecture
 draft: 1
-num: 16
+num: 15
 due_date: 2021-02-17
 slides: 
    - title: "Handling User Input & Event Handlers"

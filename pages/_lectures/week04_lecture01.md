@@ -4,7 +4,7 @@ title: |
     Creating Your Own Functions: Part 1
 type: lecture
 draft: 1
-num: 7
+num: 6
 description:
   - Creating your own functions
   - Defining versus invoking functions

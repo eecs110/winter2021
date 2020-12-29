@@ -3,7 +3,7 @@ layout: module
 title: |
     Introduction to Functions
 type: lecture
-num: 6
+num: 5
 show_schedule: 1
 draft: 1
 description:

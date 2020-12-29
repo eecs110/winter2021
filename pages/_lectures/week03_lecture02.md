@@ -2,7 +2,7 @@
 layout: module
 title: Intro to Lists & Tuples; Intro to the Command Line
 type: lecture
-num: 5
+num: 4
 show_schedule: 1
 include_page: "extras/command_line.md"
 draft: 1

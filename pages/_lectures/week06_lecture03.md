@@ -6,7 +6,7 @@ description:
     - Using for loops with lists and sequences
 type: lecture
 draft: 1
-num: 14
+num: 13
 due_date: 2021-02-12
 slides: 
    - title: "More Loops: For Loops & Lists"

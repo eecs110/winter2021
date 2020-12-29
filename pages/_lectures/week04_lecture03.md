@@ -2,7 +2,7 @@
 layout: module
 title: "Modules and Variable Scope"
 type: lecture
-num: 9
+num: 8
 draft: 1
 due_date: 2021-01-29
 quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/124241

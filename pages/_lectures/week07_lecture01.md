@@ -5,7 +5,7 @@ description:
     - practice using for loops to process data
 type: lecture
 draft: 1
-num: 15
+num: 14
 due_date: 2021-02-15 
 exercise_url: "lecture15.zip"
 
