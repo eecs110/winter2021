@@ -12,7 +12,7 @@ description:
 due_date: 2021-01-15
 ---
 
-**Reminder:** Everyone must sign up for a tutorial slot <a href="https://docs.google.com/spreadsheets/d/1twZ2NDfyu0jVgvb4SMS2Cd9KEwwcPN0BZvLg0XMJuh8/edit#gid=0" target="_blank">here</a>. 
+**Reminder:** Everyone must sign up for a tutorial slot <a href="https://docs.google.com/spreadsheets/d/1odokdN7BU1nG07s3VI866QAe-SX-dn3V2LnnzrDRzA8/edit?usp=sharing" target="_blank">here</a>. 
 
 In tutorial today, you will meet your peer mentor and fellow classmates, install Python3 (if you haven't already), and write a few simple programs. Attendance at your first tutorial session is **MANDATORY**.
 
