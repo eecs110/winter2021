@@ -21,7 +21,7 @@ draft: 0
 
 In this assignment, you are going to get some practice writing functions using tkinter that will ultimately enable you to create more complex shapes (like animals, trees, plants, etc.). To do this, we will be using a built-in python module: tkinter. Tkinter provides support for creating custom graphical user interfaces (GUIs). Please download the homework starter files (above).
 
-## 1. Background Information
+## Background Information
 
 ### Coordinate system
 To draw your shapes, you will be using an (x, y) coordinate space that has a different origin from the one you use in math class. For computer graphics, the origin is typically in the top left-hand corner (pictured below). To help you debug, I have created a function, make_grid, in the helpers.py file, that will draw gridlines for you.
@@ -54,10 +54,10 @@ canvas.mainloop()
 ```
 
 ### Documentation
-4. Finally, you may need to refer to the canvas documentation, located here:
+Finally, you may need to refer to the canvas documentation, located here:
 <a href="http://effbot.org/tkinterbook/canvas.htm" target="_blank">http://effbot.org/tkinterbook/canvas.htm</a>. Most technical documentation is terse and difficult for beginners to interpret. That said, learning to read technical documentation is an important part of becoming a solid programmer, and will serve you well. You are essentially learning to read in a new genre, so interpreting the documentation takes practice (and patience). Ultimately, learning about tkinter is unimportant. However, learning how to work with modules (which all have structures similar to tkinter) is one of the most important things you will learn in the class.
 
-## 2. Your Tasks
+## Your Tasks
 Take a look at some of the canvas functions and feel free to tinker with the arguments and values of the code. When you're done, please complete the following 4 tasks:
 
 ### 1. Modify the make_oval function
@@ -146,9 +146,9 @@ make_bullseye(canvas, (400, 400), 20, distance=10)
 
 
 
-## 3. What to Submit
+## What to Submit
 Please zip the entire `hw02` folder and name the zip file `hw02.zip`. We will only be grading your `main.py` file, but since there are dependencies, we would like you to submit all of the files together via a zip file.
 
-## 4. Warning for Mac users: The TKinter bug
+## Warning for Mac users: The TKinter bug
 {% capture my_include %}{% include tkinter_bug_mac.md %}{% endcapture %}
 {{ my_include | markdownify }}
