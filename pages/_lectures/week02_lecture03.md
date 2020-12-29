@@ -1,50 +1,70 @@
 ---
 layout: module
-title: |
-    Introduction to Functions
+title: The Building Blocks
 type: lecture
+draft: 1
 num: 3
 show_schedule: 1
-draft: 1
 description:
-    - Some useful built-in functions
-    - Parameters and arguments
+  - Variables, operators, data types, and built-in functions
 due_date: 2021-01-15
-slides:
-  - url: https://docs.google.com/presentation/d/15YZ9y27W116UjxhU34jgh8Juy3dMKtg2cJyvmpmrHF4/edit?usp=sharing
-    title: "Intro to Functions"
-  - url: https://docs.google.com/presentation/d/1VG5VzsFl1-3Jhx5vg6dE7Q5E4UdFDArEfN-SFOW_dM8/edit?usp=sharing
-    title: Supplementary Slides for Live Lecture
-videos: 
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e2f95f7-bb7a-46fa-981f-ac3f00e58f30
-    title: "Expressions & Intro to Functions"
-    duration: "15:50"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b33f552-6832-470e-adb9-ac3f00ea4a11
-    title: "More Function Rules"
-    duration: "15:32"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e20884ad-6be9-4c89-bfce-ac3f00f17646
-    title: "Built-In Functions Demo"
-    duration: "09:10"
-  - url: https://northwestern.zoom.us/rec/share/DZvCoZQkHTJDrAuF7upiUWIYWLiWQeP2P4EPT_EUdcdACHrSvfDfteYX1GXbZ67S.USz0IOhV0mcBTzwX?startTime=1601046960000
-    live: 1
-    title: Practice calling functions
-    duration: |
-        51:23
 
+quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122779
+slides:
+  - url: https://docs.google.com/presentation/d/1CyzjjjCYtUxCPWFem1hgkgK2Zdv1losXs1A6DzWfD-8/edit?usp=sharing
+    title: The Building Blocks of Programming
+  - url: https://docs.google.com/presentation/d/1Qsthtvr5hL4A0QG4RV3lqa_CNjp0r3ctFBaj1A5TaEQ/edit?usp=sharing
+    title: Supplementary Slides for Live Lecture
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=270174ec-2451-4c8d-a279-ac3a002e0a1a
+     duration: |
+        10:51
+     title: Using the Lecture Files
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa0d8d0-2741-4897-a770-ac3a00386656
+     duration: |
+        17:04
+     title: Data Types & Variables
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e405208f-6a48-44d5-8431-ac3a0041daca
+     title: Operators
+     duration: |
+        08:36
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=521b28fc-4c28-4255-89ca-ac3a0041d9a9
+     title: Built-in Functions
+     duration: |
+        13:31
 
 readings:
-  - title: "Ch4: Functions"
+  - title: "Ch2: Variables"
     author: "Severance"
-    url: https://www.py4e.com/html3/04-functions
-    video_url: https://www.py4e.com/lessons/functions
-  - title: "Ch4: Functions"
+    url: https://www.py4e.com/html3/02-variables
+    video_url: https://www.py4e.com/lessons/memory
+  - title: "Ch2: Variables"
     author: "Heinold"
     url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
 
+extras:
+  - title: "Tutorial Signups"
+    comments: "You MUST sign up for a tutorial session"
+    url: "https://docs.google.com/spreadsheets/d/1twZ2NDfyu0jVgvb4SMS2Cd9KEwwcPN0BZvLg0XMJuh8/edit"
+    external: 1
 
-
-exercise_url: "lecture05.zip"
+exercise_url: "lecture03.zip"
 ---
 
-<img class="module-image" src="/winter2021/assets/images/lectures/lecture_03_functions.png" /> 
-The next two lessons will primarily be dedicated to functions. In this lesson, we will introduce functions, including some basic terminology and why they are useful. We'll also take a look at some examples of how to use built-in functions. In the next lesson (Lesson 6), we will practice building our own functions and modules. <br><br>This week's tutorial ([Tutorial 2](../assignments/tutorial02)) and homework ([Homework 2](../assignments/tutorial02)) will be based on content reviewed in this lesson and the next one. You are strongly encouraged to review the content in these lessons *before* trying the lab/homework.
+<img class="module-image" src="/winter2021/assets/images/lectures/lecture_02_blocks.jpg" />Python (and all programmming languages) are made up of very small "words" (like nouns and verbs) that can be composed into meaningful "sentances" (i.e. code blocks that do something useful). Today we are going to review some of the basic building blocks of code, including data types, operators, and variables.<br><br>In addition to the lectures and videos, there are also some sample python files that you will need to download and run (using IDLE). If, for any reason, you are having trouble installing IDLE (instructions can be found in the first part of [homework 1](../assignments/hw1)), reach out to your TA or sign-up for an office hours session. Please keep your files organized (as explained in hw01). I recommend a folder structure like this:
+
+```
+cs110
+    |-- homework
+    │   |-- hw01
+    │   |-- hw02
+    |   ...
+    |-- lectures
+    │   -- lecture01
+    │   -- lecture02
+    │   ...
+    |-- tutorials
+        |-- tutorial01
+        |-- tutorial02
+        ...
+```

@@ -5,11 +5,11 @@ description:
     - When do you use if/else versus try/except?
     - What kind of errors do try/except statements usually handle?
 type: tutorial
-abbreviation: Tutorial 8
+abbreviation: Tutorial 7
 draft: 1
 num: 8
 points: 3
-due_date: 2020-11-11
+due_date: 2021-02-26
 ---
 
 <style>

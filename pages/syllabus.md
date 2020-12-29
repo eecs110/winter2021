@@ -35,6 +35,8 @@ These tutorials have a few goals:
 
 Tutorials will be graded pass/fail. Even if you don't get everything working perfectly, you will still get full credit if you demonstrate a good-faith effort. You must submit **at least 7 tutorials**, but are encouraged to complete them all. 
 
+### Schedule is subject to change
+It is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Piazza.
 
 ## Course Staff
 We have 22 peer mentors (undergraduates) and 2 graduate TAs to help you:
@@ -131,17 +133,10 @@ an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 
 
 ### Homework Grading
-Homework will be approximately weekly, and is due at 11:59pm on the specified date.
+Homework will be approximately weekly, and is due at 11:59pm on the specified date. We will still accept late homework up to 48 hours after the original due date, but with a 2 point penalty (25%).
 
-We will still accept late homework up to 48 hours after the original due date, but with a 2 point penalty (25%). Homework is graded on the following scale:
-
-|--|--|
-| **No submission / little understanding** | 0 Points | Little to no understanding/effort demonstrated |
-| **Check minus** | 3 Points | Some effort made, but significant features are missing or not working |
-| **Check** | 6 Points | Mostly working, but some errors or issues were found |
-| **Check Plus**| 8 Points | Working exactly as it should |
-
-On occasion, the grader may make an error. You will receive your assignment grades on Canvas. If you have any grading questions/concerns, please send a private message on Piazza within 1 week to the graduate TA to resolve the issue. Finally, it is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Piazza.
+### Reviewing Grades
+On occasion, the grader may make an error. You will receive your assignment grades on Canvas. If you have any grading questions/concerns, please send a private message on Piazza within 1 week to the graduate TA to resolve the issue. 
 
 ## Policy on Academic Honesty
 In the past, there have been a few unfortunate instances in which students have presented work other than their own. For the programming assignments: You are allowed (encouraged, even!) to discuss general approaches to solving problems, but all work you submit must be your own. Working “together” and presenting variants of the same file is not acceptable. Here are some specific guidelines to make sure you don’t cross the line:

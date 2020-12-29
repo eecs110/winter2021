@@ -1,23 +1,50 @@
 ---
 layout: module
-title: "Creating Your Own Functions: Part 2"
+title: Intro to Lists & Tuples; Intro to the Command Line
 type: lecture
-draft: 1
 num: 5
+show_schedule: 1
+include_page: "extras/command_line.md"
+draft: 1
+quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122964
 description:
-  - More function practice (continuation from Monday)
+    - Intro to the command line
+    - Lists and tuples (sequences)
 due_date: 2021-01-20
+
 slides:
-  - url: https://docs.google.com/presentation/d/1Zh56r23K1NuMp1AtUE8wYYrIYDDDoSrxRgWsxl4uUXc/edit?usp=sharing
-    title: "Supplementary Slides for Live Lecture"
-videos:
-  - url: https://northwestern.zoom.us/rec/share/38FJQDFeA2V3Q1IRXGoxK7D8jXFD7jyN0Kc2cToykkFYx8faZ82VAIV0AVVBpTGx.nHEgGLV6gY5ol804?startTime=1601478956000
-    title: "Practice writing functions (part 2)"
-    duration: "50:34"
-    live: 1
-exercise_url: "lecture07.zip"
+  - url: https://docs.google.com/presentation/d/1n3Kxa6wp8L6wCb1xfhye6wTuhLi3G5ddIY3X33dSMRk/edit?usp=sharing
+    title: "The Command Line, Running Python, Lists & Tuples"
+  - url: https://docs.google.com/presentation/d/18vPQYcpN_IH2Abj42MEA9S9BBWQT4B5knZYY-gmD_78/edit?usp=sharing
+    title: Supplementary Slides for Live Lecture
+videos: 
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b5e7fb1-45d6-4a58-afbd-ac3d00dba629
+    duration: "12:40"
+    title: |
+      Demo: Working with the Command Line
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d362f396-92c1-4417-bc20-ac3d00dbef14
+    duration: "05:59"
+    title: |
+      Demo: 3 Ways to Execute Python
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d888642e-4713-4d68-9ab2-ac3d00dc10d2
+    title: "Lists & Tuples"
+    duration: "10:16"
+readings:
+  - title: "Ch9: Lists"
+    author: "Severance"
+    url: https://www.py4e.com/html3/08-lists
+    video_url: https://www.py4e.com/lessons/lists
+  - title: "Ch10: Tuples"
+    author: "Severance"
+    url: https://www.py4e.com/html3/10-tuples
+    video_url: https://www.py4e.com/lessons/tuples
+
+exercise_url: "lecture04.zip"
 ---
+In this lesson, we will review several different concepts: the command line, running python files, and an intro to more complex data structures (lists and tuples). 
 
-In this lecture, we will be continuing our exploration of functions. The relevant videos can be found in [Lesson 6](week03-lecture01).
+{:.blockquote-no-margin}
+> ### Note: The slides/files references in the videos have changed slightly
+> Some of the slides / file references have changed from last quarter, but the content is the same.
 
-We will continue working through the diamond exercises on Friday. We rushed through it today, but stay tuned for more!
+During lecture, we will be going through several different examples of how you might want to use a list.

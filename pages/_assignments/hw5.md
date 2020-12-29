@@ -4,7 +4,7 @@ title: Tic Tac Toe
 abbreviation: HW5
 type: homework
 files: course-files/assignments/hw05.zip
-due_date: 2020-11-13
+due_date: 2021-03-04
 points: 8
 draft: 1
 ---

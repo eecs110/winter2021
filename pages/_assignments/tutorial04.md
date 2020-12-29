@@ -6,7 +6,7 @@ abbreviation: Tutorial 4
 draft: 1
 points: 3
 num: 4
-due_date: 2020-10-14 
+due_date: 2021-02-05
 ---
 
 <a class="nu-button" href="/winter2021/course-files/tutorials/tutorial04.zip" target="_blank">

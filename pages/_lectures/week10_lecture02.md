@@ -1,25 +1,15 @@
 ---
 layout: module
-title: "Intro to Cloud-Based Services"
+title: "Cloud-Based Services: Part 2"
 description:
-    - Intro to HTTP
-    - Working with REST Endpoints
-    - Understanding query parameters
+    - Practice querying and displaying data with Yelp and Spotify
+    - Practice making an app (on the command line)
 type: lecture
 draft: 1
 num: 24
 due_date: 2021-03-10
-exercise_url: "lecture26.zip"
-slides:
-   - title: "Practice with Cloud-Based Services"
-     url: https://docs.google.com/presentation/d/1_o3oa30KVJ3qqsM7G_HPsKRUsw7RiiqoyKLGdaS7q6A/edit?usp=sharing
-videos:
-   - title: "Configuring P2 and sending an email"
-     url: "https://northwestern.zoom.us/rec/share/QQN4YfkxXV7frGkkK6OaMOJAnsDN4YHJVp2IjXb0fhoky-7rvSYoOVTyFIBZdHsS.BOmWCjR-A0K1LFRW?startTime=1605716239000"
-     duration: "49:27"
-     live: 1
-
 
 ---
 
-Today we will pratice working with Cloud-based data services (SendGrid, Yelp, Spotify), which we will be doing for the remainder of the quarter.
+* <a href="https://forms.gle/8eaJEY1gZFbBXXgC7" target="_blank">Appreciations</a>: Take 30 seconds to thank someone from the course staff who helped you.
+* Today's lecture will be a continuation of [Lecture 26](week10-lecture02). This time, we will split time between Yelp and Spotify.

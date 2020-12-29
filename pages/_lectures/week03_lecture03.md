@@ -1,43 +1,46 @@
 ---
 layout: module
-title: "Modules and Variable Scope"
+title: |
+    Introduction to Functions
 type: lecture
 num: 6
+show_schedule: 1
 draft: 1
-due_date: 2021-01-22
-quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/124241
 description:
-    - Creating modules
-    - Global and local variables
+    - Some useful built-in functions
+    - Parameters and arguments
+due_date: 2021-01-22
 slides:
-  - url: https://docs.google.com/presentation/d/1bf7achAFtAf9Zpb2WJxhfNAvOyWO9D-3bPt2UDnu_kE/edit?usp=sharing
-    title: "Modules"
-  - url: https://docs.google.com/presentation/d/1WcutixtvM3qyNsCS5-9SIJLHqTK2LKFKy8l2ZcnAn8U/edit?usp=sharing
-    title: "Variable Scope"
-  - url: https://docs.google.com/presentation/d/1Knh9-oqYUW-8g2t7blKTwFGRgIHNvG0YiSFnu6ndncE/edit?usp=sharing
-    title: "Supplementary Slides for Live Lecture"
-videos:
-   - title: "Modules"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdf22c7a-a0a5-4dd3-aa04-ac4800281691
-     duration: "20:05"
-   - title: "Variable Scope"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6d77a18-c9c3-4926-96f0-ac48003185a1
-     duration: "16:43"
-   - title: "More functions / modules practice"
-     url: https://northwestern.zoom.us/rec/share/OBOhodJVdQaAwZAOm8Ujy6EH3GDsxi9NyaHrYfw-YNdgYa7JQVI6GJhzZiMUIbwn.2Di9mwhMT9S81-2e?startTime=1601651807000
-     duration: "51:07"
-     live: 1
+  - url: https://docs.google.com/presentation/d/15YZ9y27W116UjxhU34jgh8Juy3dMKtg2cJyvmpmrHF4/edit?usp=sharing
+    title: "Intro to Functions"
+  - url: https://docs.google.com/presentation/d/1VG5VzsFl1-3Jhx5vg6dE7Q5E4UdFDArEfN-SFOW_dM8/edit?usp=sharing
+    title: Supplementary Slides for Live Lecture
+videos: 
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e2f95f7-bb7a-46fa-981f-ac3f00e58f30
+    title: "Expressions & Intro to Functions"
+    duration: "15:50"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b33f552-6832-470e-adb9-ac3f00ea4a11
+    title: "More Function Rules"
+    duration: "15:32"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e20884ad-6be9-4c89-bfce-ac3f00f17646
+    title: "Built-In Functions Demo"
+    duration: "09:10"
 
-exercise_url: "lecture08.zip"
+
+
 readings:
-  - title: "Ch12: Modules"
+  - title: "Ch4: Functions"
+    author: "Severance"
+    url: https://www.py4e.com/html3/04-functions
+    video_url: https://www.py4e.com/lessons/functions
+  - title: "Ch4: Functions"
     author: "Heinold"
     url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
-    notes: "Skim sections 12.1 through 12.4."
+
+
+
+exercise_url: "lecture05.zip"
 ---
 
-In today's pre-recorded lectures, we are going to go over:
-1. Modules: a way of organizing and reusing code, and
-2. Variable scope: what parts of memory can your program access at any given time?
-
-In live lecture, we will pick up from Wednesday and try our diamond exercise again (without rushing through it). 
+<img class="module-image" src="/winter2021/assets/images/lectures/lecture_03_functions.png" /> 
+The next two lessons will primarily be dedicated to functions. In this lesson, we will introduce functions, including some basic terminology and why they are useful. We'll also take a look at some examples of how to use built-in functions. In the next lesson (Lesson 6), we will practice building our own functions and modules. <br><br>This week's tutorial ([Tutorial 2](../assignments/tutorial02)) and homework ([Homework 2](../assignments/tutorial02)) will be based on content reviewed in this lesson and the next one. You are strongly encouraged to review the content in these lessons *before* trying the lab/homework.

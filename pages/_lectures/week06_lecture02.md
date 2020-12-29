@@ -1,21 +1,21 @@
 ---
 layout: module
-title: More Practice with For Loops & Sequences
-description:
-    - practice using for loops to process data
+title: "More Practice: While Loops & If Statements"
 type: lecture
 draft: 1
+points: 4
 num: 13
-due_date: 2021-02-10  
-exercise_url: "lecture15.zip"
-videos:
-  - title: "More practice w/looping algorithms"
-    url: https://northwestern.zoom.us/rec/share/lCYhCiYbtn37IePAfNzQV9G3SbiaD68ADbX592jL5wp6cHNymYIV3xK9ItgEDbPB.rIhCSKMFV_wmExde?startTime=1603293365000
-    live: 1
-    duration: "51:24"
-slides:
-  - title: "Slides for Live Lecture: More Practice Problems"
-    url: https://docs.google.com/presentation/d/1xurK3QEOw0p9ZfUj9CCrZ-phG-m9ENxbPg4M0DORaNg/edit?usp=sharing
+due_date: 2021-02-10
+description:
+  - Practice using if / elif / else
+  - Practice using while loops
+slides: 
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1Q25E7tk0wX5hFPdEHELz7eWcXtgxmNTpaq4mSpKtxUU/edit?usp=sharing
+
+exercise_url: "lecture13.zip"
+quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125687"
+
 ---
 
-In today's lecture, we will be continuing our practice with for loops.
+Today's lesson will be a continued discussion of While Loops. See [Lesson 12](week05_lecture03) for reference materials. 

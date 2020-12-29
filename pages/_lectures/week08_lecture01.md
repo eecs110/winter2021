@@ -1,47 +1,46 @@
 ---
 layout: module
-title: More on Files & Strings + Error Handling
+title: |
+    Files and Strings: Part 1
 description:
-    - Working with templates
-    - Error handling
+    - reading from and writing to files
+    - examining different file types
 type: lecture
 draft: 1
 num: 17
 due_date: 2021-02-22
 slides: 
-   - title: "More Files & Strings + Error Handling"
-     url: "https://docs.google.com/presentation/d/11N9ZvuBaYrdLg4Dqz7mpoJmYq4OCS_mOFiEANpgVIss/edit?usp=sharing"
+   - title: "Working with Files"
+     url: https://docs.google.com/presentation/d/10PHJet0ugSaKPBIyelW8Gc31C5UjS0yuPI5jFAMEHVY/edit?usp=sharing
    - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1C4gmNpWAxM0BQjMJMddWKRXxLb_0dQ6Ykth8dNRzq5k/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/1PU8Hqnvyy4YgY98pBA3pLvx271f-bGxkOMAw0Ru1g98/edit?usp=sharing
+readings:
+  - title: "Ch6: Strings"
+    author: "Severance"
+    url: https://www.py4e.com/html3/06-strings
+    video_url: https://www.py4e.com/lessons/strings
+  - title: "Ch7: Files"
+    author: "Severance"
+    url: https://www.py4e.com/html3/07-files
+    video_url: https://www.py4e.com/lessons/files
 videos:
-   - title: "L19a: Parsing file data"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05e566d5-61d2-44dc-8f14-ac66002c0d79
-     duration: "16:15"
-   - title: "L19b: Error handling"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d737def1-a5ca-4476-93fd-ac66002c0da3
-     duration: "12:56"
-   - title: "L19c: More string functions"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1eb1b2b4-a933-467f-b3d3-ac66002c0d12
-     duration: "9:26"
-   - title: "L19d: Templates"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c23c262e-82c1-42f9-8eec-ac66002c0d3e
-     duration: "6:16"
-   - title: "L19e: Templates: example"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16208345-2e59-45e1-af84-ac66002c3c04
-     duration: "18:13"
-   - title: "L19f: Retrieving files via HTTP/HTTPS"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef9e3da6-0ba6-4b74-afaf-ac66002c5490
-     duration: "10:25"
-   - title: "Practice try/except (and short web server diversion)"
-     url: https://northwestern.zoom.us/rec/share/0SbtlWf99uFbuVNdwArYn22UB1ERgU6PqsLc9V14NsXIkDY9FFEgEHT-LkqJe5p6.5RIbKHkWBYF9BtFJ?startTime=1604333745000
-     duration: "51:12"
-     live: 1
-exercise_url: "lecture19.zip"
+   - title: "L17a: String & List Functions"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e125524d-4800-4a54-848a-ac6200326f7e"
+     duration: "10:15"
+   - title: "L17b: Reading & Writing Files"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5641bed4-583f-4979-8e46-ac6200326fc3"
+     duration: "8:00"
+   - title: "L17c: Some Example Programs"
+     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79ff3149-5d1a-4385-a0e1-ac6200327003"
+     duration: "5:39"
+
+
+
+
+exercise_url: "lecture17.zip"
 ---
 
-In this lesson, we're going to go over a few more examples of using files in the "real world." This includes:
-1. reading files from disk and from the Internet,
-2. manipulating file data into usable formats, and finally
-3. writing files with the help of templates
 
-We will also explore a new file format (HTML). In addition, we will also talk about error handling using `try/except` blocks.
+Today, you will be learning to work with files --  including reading them, writing them, and appending to them. Because many file formats involve text, you will also be learning to work with some common string functions.
+
+One of the most important skills of a programmer is understanding how to do data manipulation across a variety of contexts and formats. Given that a vast quantity of data is stored in files, databases, etc., learning to access, manipulate, and write data in various formats for subsequent storage is a critical programming skill.

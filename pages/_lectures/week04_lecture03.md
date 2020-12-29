@@ -1,28 +1,40 @@
 ---
-layout: lecture-two-column
-title: "Quiz 1"
-type: quiz
-description:
-    - Quiz 1 of 3 (using the Lockdown Browser)
+layout: module
+title: "Modules and Variable Scope"
+type: lecture
+num: 9
 draft: 1
-num: 1
 due_date: 2021-01-29
+quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/124241
+description:
+    - Creating modules
+    - Global and local variables
+slides:
+  - url: https://docs.google.com/presentation/d/1bf7achAFtAf9Zpb2WJxhfNAvOyWO9D-3bPt2UDnu_kE/edit?usp=sharing
+    title: "Modules"
+  - url: https://docs.google.com/presentation/d/1WcutixtvM3qyNsCS5-9SIJLHqTK2LKFKy8l2ZcnAn8U/edit?usp=sharing
+    title: "Variable Scope"
+  - url: https://docs.google.com/presentation/d/1Knh9-oqYUW-8g2t7blKTwFGRgIHNvG0YiSFnu6ndncE/edit?usp=sharing
+    title: "Supplementary Slides for Live Lecture"
+videos:
+   - title: "Modules"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdf22c7a-a0a5-4dd3-aa04-ac4800281691
+     duration: "20:05"
+   - title: "Variable Scope"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6d77a18-c9c3-4926-96f0-ac48003185a1
+     duration: "16:43"
 
+
+exercise_url: "lecture08.zip"
+readings:
+  - title: "Ch12: Modules"
+    author: "Heinold"
+    url: https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
+    notes: "Skim sections 12.1 through 12.4."
 ---
-## Study Materials
-* <a href="https://docs.google.com/document/d/1EvC8w6KPSrMDoWTNlNivEvP1jcxdmZd1yKWkm8NXJ98/edit?usp=sharing" target="_blank">Study Guide</a>
-* Please do the <a href="https://canvas.northwestern.edu/courses/120087/quizzes" target="_blank">practice mini-quizzes</a>
-* The practice quiz, which requires using the [Lockdown Browser](../resources/lockdown-browser), will be posted Sunday evening, 10/4.
 
-## Practice Quiz Now Available!
-The practice quiz has now been published <a href="https://canvas.northwestern.edu/courses/120087/quizzes/124320" target="_blank">here</a>. To take it, you need to download the Lockdown Browser, open it, and use it to log into Canvas. Once you've done this, navigate to the CS110 Quiz section and take the quiz just as you have taken the others.
+In today's pre-recorded lectures, we are going to go over:
+1. Modules: a way of organizing and reusing code, and
+2. Variable scope: what parts of memory can your program access at any given time?
 
-Start early. You can take the quiz as many times as you want to practice.
-
-## How to Take The Actual Quiz
-There will be two windows for the quiz:
-
-1. **Option 1:** Thursday night from 9PM-9:50PM (intended to accommodate Asian time zones)
-2. **Option 2:** Friday morning during regularly scheduled class time (10:20AM-11:10AM)
-
-Anyone is welcome to take the quiz either on Thursday evening or on Friday morning, regardless of where you live in the world.
+In live lecture, we will pick up from Wednesday and try our diamond exercise again (without rushing through it). 

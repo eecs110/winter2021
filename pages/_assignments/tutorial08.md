@@ -5,11 +5,11 @@ description:
     - Reading & writing files
     - File analytices
 type: tutorial
-abbreviation: Tutorial 7
+abbreviation: Tutorial 8
 draft: 1
 num: 7
 points: 3
-due_date: 2020-11-04
+due_date: 2021-03-05
 ---
 
 <style>

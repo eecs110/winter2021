@@ -1,22 +1,42 @@
 ---
 layout: module
 title: |
-    Finishing our Spotify Activity: Downloading Remote Files
-description:
-    - More practice with dictionaries
-    - Considering how a web crawler might work
+    Dictionaries: Part 1
+description: 
+    - Creating, reading, and updating a dictionary
+    - Dictionaries as lookup tables
 type: lecture
 draft: 1
 num: 20
 due_date: 2021-03-01
-exercise_url: "lecture21-in-class-edits.zip"
+readings:
+  - title: "Ch9: Dictionaries"
+    author: "Severance"
+    url: https://www.py4e.com/html3/09-dictionaries
+    video_url: https://www.py4e.com/lessons/dictionary
+slides: 
+   - title: "Dictionaries"
+     url: https://docs.google.com/presentation/d/1uPwFAl-2ZEfxp3DN7G5Sj2yVRPeKSKnv0WsPivu9-M4/edit?usp=sharing
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1A0RHxCDvBN_xvz6NqxDJxX2hkQcpFBlG1C0DiJG8Bf8/edit?usp=sharing
+
 videos:
-   - title: "Downloading files from the Internet"
-     url: https://northwestern.zoom.us/rec/share/7SwRsccxVdEWX0H8bKwUpYY2yAOrg8VQhk099dQ1_7Fmia5Gxy4RIZvC8BY4ZSp3.eJzX8WkKIELFm8TL?startTime=1604938761000
-     live: 1
-     duration: "53:45"
+   - title: "L20a: Dictionary syntax / functionality"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00f44615-f673-4f23-aad1-ac66002d1d3e
+     duration: "16:49"
+   - title: "L20b: Dictionaries as lookup tables"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf282ab-1c41-410e-a6cd-ac66002d1ca4
+     duration: "10:37"
+   - title: "L20c: Dictionaries as entity representations"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf0fea18-9e86-4fdb-b463-ac66002d1d0c
+     duration: "7:20"
+   - title: "L20d: Lists of dictionaries (Twitter)"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8d001fc-c385-4f3a-b8c5-ac66002d1cdc
+     duration: "14:50"
+
+exercise_url: "lecture20.zip"
 ---
 
-Today, we are going to finish our Spotify example from [Lecture 21](week08-lecture03), and think about how we might use a dictionary of tracks to download some album covers and audio samples (akin to how a web crawler / scraper might work).
+Today and on Friday, we will be learning about dictionaries -- another way (in addition to lists and tuples) of storing and representing collections of related data. As a programmer, you will encounter dictionaries all of the time. We'll go over some common scenarios and take a look at many different kinds of dictionaries.
 
-I've attached my code from Friday's in-class coding activities for those who were not able to make the Friday lecture. This zip file contains the edits I made to `utilities.py` as well as an updated `03_spotify_data.py` file, which we will build on.
+Then, next week, we'll go over how dictionaries can help you to group, tally, and analyze data.
