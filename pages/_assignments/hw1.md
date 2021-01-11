@@ -29,11 +29,11 @@ points: 8
 
 We will use the Python 3 programming language and **IDLE**, which is Python's Integrated Development and Learning Environment. To install Python3 and IDLE on your computer, complete the following steps:
 
-1. Download the latest version (3.8.x) of python here: <a href="https://www.python.org/downloads/" target="_blank">https://www.python.org/downloads/</a><br><br>
+1. Download the latest version (which is now 3.9.x) of python here: <a href="https://www.python.org/downloads/" target="_blank">https://www.python.org/downloads/</a>. Anything above Python 3.6 is fine!<br><br>
 2. **IMPORTANT: WINDOWS USERS ONLY**<br>If you are installing Python3 on a Windows machine, please ensure that as you run the installer, you check the "Add Python3.x to path" box (see pink box below). This will save you a lot of time later when you start installing third-party modules using PIP. <img class="windows" src="/winter2021/assets/images/hw01/windows-installer.png" /><br><br>
 3. Run the installer and go through the installation process.<br><br>
-4. When you're donw, navigate to the folder on your machine where Python was installed. For me, on a Mac, my IDLE was saved to **Applications > Python 3.8** (or you can also search for it). For Windows users, it will likely be in a folder inside of Program Files (which you can also search for).<br><br>
-5. Inside, the Python 3.8 folder, you'll find a file called **IDLE** - this is the IDLE executable. Double click on that file to run it. You should then see something like:<br><img class="screenshot" src="/winter2021/assets/images/hw01/idle1.png" /><br><br>
+4. When you're donw, navigate to the folder on your machine where Python was installed. For me, on a Mac, my IDLE was saved to **Applications > Python 3.x** (or you can also search for it). For Windows users, it will likely be in a folder inside of Program Files (which you can also search for).<br><br>
+5. Inside, the Python 3.x folder (whichever version you installed), you'll find a file called **IDLE** - this is the IDLE executable. Double click on that file to run it. You should then see something like:<br><img class="screenshot" src="/winter2021/assets/images/hw01/idle1.png" /><br><br>
 6. I recommend keeping IDLE in your dock (on a Mac) or making a Desktop Shortcut to IDLE (on Windows).<br><br>
 7. At the **&gt;&gt;&gt;** prompt, you can type any valid python command. For example, type `print("hello world!")` and hit enter. You should see something like this:<br><img class="screenshot" src="/winter2021/assets/images/hw01/idle2.png" />
 
