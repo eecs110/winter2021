@@ -11,7 +11,11 @@ due_date: 2021-01-11
 slides:
    - url: https://docs.google.com/presentation/d/1NEChEoXl0ILZoNtl2jMIhVgaQ53ZKLYpJFtLcU49JR0/edit?usp=sharing
      title: Course Logistics
-
+videos:
+   - url: https://northwestern.zoom.us/rec/share/iU8gxUUc9soE0eNodrAu15_S6wSxTMfFJkbwj_vLnTbQ9sbho4LDM_JYekuisZA4.437tT3a2bP0ZidmK?startTime=1610380579000
+     duration: "52:41"
+     live: 1
+     title: Live Lecture
 extras:
   - title: "Course Questionnaire"
     comments: "Please complete the pre-course questionnaire by tonight (1/11)!"
