@@ -19,6 +19,10 @@ videos:
      title: Intro to Hardware & Software
      duration: |
        31:38
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f309b2be-d4c6-4ae4-ace2-acaf017458b8
+     title: PB&J
+     duration: 40:44
+     live: 1
 readings:
   - title: "Ch1: Intro to Computing"
     author: "Charles Severance"
