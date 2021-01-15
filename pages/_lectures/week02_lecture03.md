@@ -13,8 +13,8 @@ quiz_url: https://canvas.northwestern.edu/courses/130514/quizzes/132654
 slides:
   - url: "https://docs.google.com/presentation/d/1PekUnLRXBQey2JNNCLdUEcJCSYyjJmLqNT9XEwwGNCc/edit?usp=sharing"
     title: The Building Blocks of Programming
-#   - url: "https://docs.google.com/presentation/d/1w6qQH8Q79DJhPt1lzoDr3m67qCUDPA1pu8z-asAQuI4/edit?usp=sharing"
-#     title: Supplementary Slides for Live Lecture
+  - url: "https://docs.google.com/presentation/d/1w6qQH8Q79DJhPt1lzoDr3m67qCUDPA1pu8z-asAQuI4/edit?usp=sharing"
+    title: Supplementary Slides for Live Lecture
 videos:
    - url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc17c765-bd13-456a-9b62-aca00006386a"
      duration: |
