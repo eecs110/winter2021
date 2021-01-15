@@ -32,6 +32,10 @@ videos:
      title: Built-in Functions
      duration: |
         13:31
+   - url: https://northwestern.zoom.us/rec/share/3K7UU61mipxMZE7qrydNZOKr4PVkWOkF-aQ7mbHtrMDQ8SDKPeqdSczGz47rXvMt.6k2xhCdsB75cLS3u?startTime=1610726213000
+     title: Live Lecture
+     duration: '58:50'
+     live: 1
 
 readings:
   - title: "Ch2: Variables"
