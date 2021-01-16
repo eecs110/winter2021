@@ -5,7 +5,7 @@ type: lecture
 num: 4
 show_schedule: 1
 include_page: "extras/command_line.md"
-draft: 1
+draft: 0
 quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/122964
 description:
     - Intro to the command line
@@ -13,22 +13,22 @@ description:
 due_date: 2021-01-20
 
 slides:
-  - url: https://docs.google.com/presentation/d/1n3Kxa6wp8L6wCb1xfhye6wTuhLi3G5ddIY3X33dSMRk/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/1TEiqg3lKsNuNR691eDC5VRuCw4YfeueetT8mse2GrUM/edit?usp=sharing
     title: "The Command Line, Running Python, Lists & Tuples"
-  - url: https://docs.google.com/presentation/d/18vPQYcpN_IH2Abj42MEA9S9BBWQT4B5knZYY-gmD_78/edit?usp=sharing
-    title: Supplementary Slides for Live Lecture
+#   - url: https://docs.google.com/presentation/d/1QeYQOct13zn_quViJESq8uhc5DZNgiJp3Bbugh46bSM/edit?usp=sharing
+#     title: Supplementary Slides for Live Lecture
 videos: 
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b5e7fb1-45d6-4a58-afbd-ac3d00dba629
-    duration: "12:40"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49f0eb95-edc7-42b3-bbc9-aca000063b13
+    duration: "12:24"
     title: |
       Demo: Working with the Command Line
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d362f396-92c1-4417-bc20-ac3d00dbef14
-    duration: "05:59"
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d22a52f-f603-4882-bc73-aca000063a82
+    duration: "05:46"
     title: |
       Demo: 3 Ways to Execute Python
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d888642e-4713-4d68-9ab2-ac3d00dc10d2
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36f9a783-6762-4aa2-a3fc-aca000063a1b
     title: "Lists & Tuples"
-    duration: "10:16"
+    duration: "9:40"
 readings:
   - title: "Ch9: Lists"
     author: "Severance"
@@ -41,10 +41,7 @@ readings:
 
 exercise_url: "lecture04.zip"
 ---
-In this lesson, we will review several different concepts: the command line, running python files, and an intro to more complex data structures (lists and tuples). 
 
-{:.blockquote-no-margin}
-> ### Note: The slides/files references in the videos have changed slightly
-> Some of the slides / file references have changed from last quarter, but the content is the same.
+In this lesson, we will review several different concepts: the command line, running python files, and an intro to more complex data structures (lists and tuples). Note that in the videos, some of the slide / file references have changed, but the content is the same.
 
 During lecture, we will be going through several different examples of how you might want to use a list.
