@@ -66,6 +66,6 @@ readings:
 exercise_url: "lecture04.zip"
 ---
 
-In this lesson, we will review several different concepts intended to get you up-to-speed for Homework 2, which includes: (1) working on the command line, (2) reviewing some different ways of running python files, (3) learning about lists and tuples, and (4) introducing functions. Because this quarter has 4 fewer class sessions, the next two lessons have a lot of material to cover.
+In this lesson, we will review several different concepts intended to get you up-to-speed for Homework 2, which includes: (1) working on the command line (also see [command line cheatsheet](../resources/command-line-cheatsheet/)), (2) reviewing some different ways of running python files, (3) learning about lists and tuples, and (4) introducing functions. Because this quarter has 4 fewer class sessions, the next two lessons have a lot of material to cover.
 
 In the next lesson (Lesson 5), we will practice building our own functions and modules. This week's tutorial ([Tutorial 2](../assignments/tutorial02)) and homework ([Homework 2](../assignments/hw2)) will be based on content reviewed in this lesson and the next one. You are strongly encouraged to review the content in these lessons *before* trying the lab/homework.
