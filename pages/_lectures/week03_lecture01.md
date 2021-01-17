@@ -9,4 +9,4 @@ description:
 due_date: 2021-01-18
 ---
 
-Hello world
+No class

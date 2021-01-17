@@ -16,7 +16,9 @@ due_date: 2021-01-22
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 
-This tutorial is based on content that is reviewed in Lessons 1-7, and is intended to prepare you for [HW2](../assignments/hw2). Please download the starter files and complete the instructions outlined below. PLEASE ASK LOTS OF QUESTIONS in your tutorial section. If you've never done this before, there are a lot of little typing / logic / conceptual mistakes that **everyone** makes. Tutorial is your time to allow yourself to make all of those mistakes so that you can learn from them. 
+> **Note:** If you have not yet reviewed the videos from Friday's lecture ([lesson 5](/winter2021/lectures/week03-lecture03)), please do so before your Tutorial session. Even if you don't have the time to review them all, try to get to the first and second videos.
+
+This tutorial is based on content that is reviewed in Lessons 1-5, and is intended to prepare you for [HW2](../assignments/hw2). Please download the starter files and complete the instructions outlined below. PLEASE ASK LOTS OF QUESTIONS in your tutorial section. If you've never done this before, there are a lot of little typing / logic / conceptual mistakes that **everyone** makes. Tutorial is your time to allow yourself to make all of those mistakes so that you can learn from them. 
 
 {: .blockquote-no-margin}
 > **LEARNING OBJECTIVES:** 

@@ -37,12 +37,12 @@ show_schedule: 1
 <h3 id="videos">{{num}}. Review the Lecture Video(s)</h3>
 {% assign num = num | plus: 1 %}
 
-    <table class="medium module">
+    <table class="module">
         <thead>
             <tr>
                 <th>Link</th>
-                <th>Title</th>
                 <th>Type</th>
+                <th>Title</th>
                 <th>Duration</th>
             </tr>
         </thead>
@@ -50,10 +50,14 @@ show_schedule: 1
         {% assign vnum = 1 %}
         {% for video in page.videos %}
             {% assign className = "recorded" %}
-            {% assign type = "pre-recorded" %}
+            {% assign type = "required" %}
             {% if video.live %}
                 {% assign className = "live" %}
                 {% assign type = "lecture" %}
+            {% endif %}
+            {% if video.recommended %}
+                {% assign type = "recommended" %}
+                {% assign className = "recommended" %}
             {% endif %}
             {% assign label = "Video" | append: " " | append: vnum %}
             {% if video.chat %}
@@ -67,10 +71,13 @@ show_schedule: 1
                     </a>
                 </td>
                 <td>
-                    {{video.title}}
+                    {{ type }}
                 </td>
                 <td>
-                    {{ type }}
+                    {{video.title}}
+                    {% if video.recommended %}
+                        (recommended)
+                    {% endif %}
                 </td>
                 <td>
                     {{ video.duration }}

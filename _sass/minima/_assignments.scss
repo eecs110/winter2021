@@ -46,6 +46,7 @@
     .lab, a.lab, 
     .quiz, a.quiz, 
     .live, .recorded, 
+    .recommended,
     .ec, a.ec {
         display: inline-block;
         border-radius: 4px;
@@ -90,6 +91,9 @@
     }
     .recorded {
         background: $lightpurple;
+    }
+    .recommended {
+        background: rgba(104, 74, 152, 0.5);
     }
     
     ul {
