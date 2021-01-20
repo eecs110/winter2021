@@ -19,8 +19,8 @@ slides:
     title: "The Command Line, Running Python, Lists & Tuples"
   - url: https://docs.google.com/presentation/d/1Q6xDEKMzOm4DZ9DlY-xUJcKv6-3avDpFVXnsK0CPQlI/edit?usp=sharing
     title: "Intro to Functions"
-#   - url: https://docs.google.com/presentation/d/1QeYQOct13zn_quViJESq8uhc5DZNgiJp3Bbugh46bSM/edit?usp=sharing
-#     title: Supplementary Slides for Live Lecture
+  - url: https://docs.google.com/presentation/d/1QeYQOct13zn_quViJESq8uhc5DZNgiJp3Bbugh46bSM/edit?usp=sharing
+    title: Supplementary Slides for Live Lecture
 videos:   
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49f0eb95-edc7-42b3-bbc9-aca000063b13
     duration: "12:24"
