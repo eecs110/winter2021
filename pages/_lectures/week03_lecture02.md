@@ -45,6 +45,10 @@ videos:
     title: "Practice Using Built-In Functions"
     duration: "21:02"
     recommended: 1
+  - url: https://northwestern.zoom.us/rec/share/Ur2C0pMYoJ14tghoc694KD3SVS9uKZj-K_n0WXCNTibigY9Buv_reGbAZ0ko7O3g.RLzD0-B_csc37YXH?startTime=1611158349000
+    title: "Live Lecture"
+    duration: "51:10"
+    live: 1
 
 readings:
   - title: "Ch9: Lists"

@@ -43,25 +43,24 @@ We have 22 peer mentors (undergraduates) and 2 graduate TAs to help you:
 
 ### Peer Mentors
 * Cooper Barth (cooperbarth2021@u.northwestern.edu)
-* Kieran Bondy (kieranbondy2021@u.northwestern.edu)
+* Kendall Clark	(kendallclark2023@u.northwestern.edu)
 * Chase Duvall (chaseduvall2023@u.northwestern.edu)
 * Olivier Gabison (oliviergabison2022@u.northwestern.edu)
 * Olivia Gallager (oliviagallager2021@u.northwestern.edu)
 * Camila Grisanti (camilagrisanti2022@u.northwestern.edu)
 * Kevin Hou (kevinhou2022@u.northwestern.edu)
 * Charlotte Jones (charlottejones2022@u.northwestern.edu)
-* Gabrielle Klein (gabrielleklein2021@u.northwestern.edu)
 * Caroline Lobel (carolinelobel2022@u.northwestern.edu)
-* Andy Moran (carlosmoran2022@u.northwestern.edu)
 * Athipat Pipatpinyopong (athipatpipatpinyopong2022@u.northwestern.edu)
 * Rhea Ramaiya (rhearamaiya2022@u.northwestern.edu)
-* Ariella Silver (a.silver@u.northwestern.edu)
 * Barbara Sledz (barbarasledz2022@u.northwestern.edu)
+* Poom Sombutboon (poomsombutboon2022@u.northwestern.edu)
 * Nicole Villalba (nicolevillalba2022@u.northwestern.edu)
 * Lily Yan (lilyyan2023@u.northwestern.edu)
+* Alberta Yoo (AlbertaYoo2021@u.northwestern.edu)
 
 ### Graduate Teaching Assistants
-* Yunming Xiao (yunming.xiao@u.northwestern.edu)
+* Conor	Hetland (conorhetland2015@u.northwestern.edu)
 * Andi Zang (andi.zang@u.northwestern.edu)
 
 ## Course Materials and Resources 
