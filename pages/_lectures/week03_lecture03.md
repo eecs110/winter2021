@@ -13,8 +13,8 @@ due_date: 2021-01-22
 slides:
   - url: https://docs.google.com/presentation/d/11NAKhkUru3jwVCRQci6dxR-ftu6SjhHM5W6ogS09zeg/edit?usp=sharing
     title: "Creating your own functions"
-#   - url: ""
-#     title: Supplementary Slides for Live Lecture
+  - url: https://docs.google.com/presentation/d/1kKebuIVSwg9ZiUvL5DAyewUkE9gFK45P25wigK22W3Q/edit?usp=sharing
+    title: Supplementary Slides for Live Lecture
 videos: 
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a441545-cb93-47d4-a9f2-aca000063968
     title: "Making your own functions"
