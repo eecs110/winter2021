@@ -31,6 +31,10 @@ videos:
   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86bfdd57-b64c-4037-8b71-aca0000632c1
     title: "Terminology and documentation"
     duration: "15:00"
+  - url: https://northwestern.zoom.us/rec/share/YCIwJHDQOuSUWOt959P1jb4gPI1r_5aw-zhXs_jIfXu9ikL_K23mFPAgb8QgWAr8.bxWCYaeRXRdPHP4C?startTime=1611331047000
+    title: "Live Lecture"
+    duration: "1:16:18"
+    live: 1
 
 exercise_url: "lecture05.zip"
 ---
