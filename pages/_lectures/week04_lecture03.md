@@ -14,8 +14,8 @@ slides:
     title: "8a. Modules"
   - url: https://docs.google.com/presentation/d/1ptk0WirXVv6E_ff5ZKDqBR0W0ymdpfM9qpDVHVb_zAU/edit?usp=sharing
     title: "8b. Variable Scope"
-  - url: ""
-    title: "Supplementary Slides for Live Lecture"
+#   - url: ""
+#     title: "Supplementary Slides for Live Lecture"
 videos:
    - title: "Modules"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44f8da9c-4559-4ce3-aa3d-aca000063181
