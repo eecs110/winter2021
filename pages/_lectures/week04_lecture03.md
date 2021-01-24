@@ -14,7 +14,8 @@ slides:
     title: "8a. Modules"
   - url: https://docs.google.com/presentation/d/1ptk0WirXVv6E_ff5ZKDqBR0W0ymdpfM9qpDVHVb_zAU/edit?usp=sharing
     title: "8b. Variable Scope"
-#   - url: ""
+# Link good to go, but more thought needed for this lecture.
+#   - url: https://docs.google.com/presentation/d/1zW91foM5w71Ki22KwUmx0TZaUODpcQnY7VatcL_g0fg/edit?usp=sharing
 #     title: "Supplementary Slides for Live Lecture"
 videos:
    - title: "Modules"
