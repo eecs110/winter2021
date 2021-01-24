@@ -52,4 +52,4 @@ Please make the following enhancements to the `tictactoe_starter.py` file (which
 <iframe src="https://northwestern.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=f65f5d64-6224-43b0-88f5-abbe00214651&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" width="720" height="405" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## What to turn in (same deal as always)
-Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, first zip your entire `tutorial08` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**. 
+Please turn in your completed tutorial exercise(s) on Canvas. To do this, first zip your entire `tutorial08` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**. 

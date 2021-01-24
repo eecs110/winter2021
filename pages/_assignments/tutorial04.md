@@ -62,4 +62,4 @@ Practice creating the following shapes using a while loop. The first three shape
 
 
 ## What to turn in (same deal as always)
-Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, first zip your entire `tutorial04` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  
+Please turn in your completed tutorial exercise(s) on Canvas by midnight on the day it's due. To do this, first zip your entire `tutorial04` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  

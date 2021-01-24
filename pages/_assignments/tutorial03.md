@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Practice with Parameters & Arguments
 type: tutorial
 abbreviation: Tutorial 3
-draft: 1
+draft: 0
 points: 3
 num: 3
 description: 
@@ -123,5 +123,5 @@ make_frank(canvas, (420, 10), pixel=15)
 3. The pixel argument is kind of awkward. Arguably a better function design would allow the calling function to specify the width of Frank (as opposed to the individual pixels that comprise him). Therefore, modify the function header so that it requires a `width` (int) parameter instead of a `pixel` parameter. This change means that you will need to derive the appropriate size of the pixel based on the width and the number of columns needed to generate Frank (which is 9). When you're done, update each of the function calls at the bottom of the file so that they pass in a width argument.
 
 ## What to Turn In
-Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, first zip your entire `tutorial03` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  
+Please turn in your completed tutorial exercise(s) on Canvas by midnight on the day it's due. To do this, first zip your entire `tutorial03` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  
 

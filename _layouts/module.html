@@ -18,10 +18,9 @@ show_schedule: 1
     </a>
     {% assign num = num | plus: 1 %}
 {% endif %}
-
+ 
 <h3 id="slides">{{num}}. Review the Slides</h3>  
-{% assign num = num | plus: 1 %}
-{% if page.slides %}
+{% if page.slides %}   
     <ol>
     {% for slide in page.slides %}
         <li>
@@ -30,8 +29,9 @@ show_schedule: 1
     {% endfor %}
     </ol>
 {% else %}
-    <p>No slides available.</p>
+    <p>Slides will be posted before lecture.</p>
 {% endif %}
+{% assign num = num | plus: 1 %}
 
 {% if page.videos %}
 <h3 id="videos">{{num}}. Review the Lecture Video(s)</h3>

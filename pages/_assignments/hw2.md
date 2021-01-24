@@ -55,13 +55,16 @@ canvas.mainloop()
 
 ### Documentation
 Finally, you may need to refer to the canvas documentation, located here:
-<a href="http://effbot.org/tkinterbook/canvas.htm" target="_blank">http://effbot.org/tkinterbook/canvas.htm</a>. Most technical documentation is terse and difficult for beginners to interpret. That said, learning to read technical documentation is an important part of becoming a solid programmer, and will serve you well. You are essentially learning to read in a new genre, so interpreting the documentation takes practice (and patience). Ultimately, learning about tkinter is unimportant. However, learning how to work with modules (which all have structures similar to tkinter) is one of the most important things you will learn in the class.
+* Canvas: <a href="https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas.html" target="_blank">https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas.html</a>
+* Other Canvas methods: <a href="https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas-methods.html" target="_blank">https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas-methods.html</a>
+
+Most technical documentation is terse and difficult for beginners to interpret. That said, learning to read technical documentation is an important part of becoming a solid programmer, and will serve you well. You are essentially learning to read in a new genre, so interpreting the documentation takes practice (and patience). Ultimately, learning about tkinter is unimportant. However, learning how to work with modules (which all have structures similar to tkinter) is one of the most important things you will learn in the class.
 
 ## Your Tasks
 Take a look at some of the canvas functions and feel free to tinker with the arguments and values of the code. When you're done, please complete the following 4 tasks:
 
 ### 1. Modify the make_oval function
-The job of the **make_oval** function is to draw an oval to the canvas, centered at a given center point, according to a given x-radius and y-radius (as specified by the arguments). We are creating this function because in the existing tkinter function, create_oval, is not intuitive: specifying the top-left and bottom-right coordinates of an oval is unconventional and inconvenient. The make_oval function accepts the following arguments:
+The job of the **make_oval** function is to draw an oval to the canvas, centered at a given center point, according to a given x-radius and y-radius (as specified by the arguments). We are creating this function because in the existing, built-in tkinter method, <a href="https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/create_oval.html" target="_blank">canvas.create_oval(...)</a>, is not intuitive: specifying the top-left and bottom-right coordinates of an oval is unconventional and inconvenient. The make_oval function accepts the following arguments:
 
 1. **canvas (Canvas)**: a tkinter Canvas object where you want the oval to be drawn.
 1. **center (tuple)**: a tuple that defines the center point, an (x, y) coordinate, where the first element in the tuple refers to the x-coordinate and the second element  in the tuple refers to the y-coordinate.
@@ -69,7 +72,11 @@ The job of the **make_oval** function is to draw an oval to the canvas, centered
 1. **radius_y (int)**: an int that specifies the radius of the oval in the y-direction.
 1. **fill (str, optional)**: a string that represents the color of the oval, defaults to hot pink.
 
-**Your job**: Currently, the create_oval function draws a hard-coded oval with a top-left coordinate of (100, 100), and a bottom-right coordinate of (200, 150) — which effectively draws it at a centerpoint of (150, 125), with an x-radius of 50 and a y-radius of 25. Your job is  to modify the code so that the top-left (x, y) and bottom-right (x, y) coordinates are calculated based on the radius_x, radius_y and center point specified by the arguments;  and that the fill color is  determined by the fill argument.
+**Your job**: Currently, the **make_oval** function draws a hard-coded oval with a top-left coordinate of (100, 100), and a bottom-right coordinate of (200, 150) So, in the sample drawing below: x0=100, y0=100, x1=200, y2=150.
+
+<img class="medium" src="https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/img/ellip_geom.png" />
+
+Put another way, this function draws the oval at a centerpoint of (150, 125), with an x-radius of 50 and a y-radius of 25. Your job is  to modify the code so that the top-left (x, y) and bottom-right (x, y) coordinates are calculated based on the radius_x, radius_y and center point specified by the arguments;  and that the fill color is  determined by the fill argument.
 
 ### 2. Modify the make_circle function
 The job of the **make_circle** function is to draw a circle to the canvas, centered at the given center, and with the given radius. We are creating this function as a convenience function. The function accepts the following arguments:

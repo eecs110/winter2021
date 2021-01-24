@@ -8,7 +8,7 @@ canvas.pack()
 ########################## YOUR CODE BELOW THIS LINE ##############################
 # help(canvas.create_oval)
 
-# Documentation: https://effbot.org/tkinterbook/canvas.htm#Tkinter.Canvas.create_oval-method
+# Documentation: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/create_oval.html
 '''
 some optional parameters: 
 activefill= Fill color to use when the mouse pointer is moved over the item
@@ -25,7 +25,7 @@ canvas.create_oval([ (50, 150), (150, 250) ], # top left x-y, bottom right x-y
     activeoutline='#999999'
 )
 
-# Documentation: https://effbot.org/tkinterbook/canvas.htm#Tkinter.Canvas.create_rectangle-method
+# Documentation: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/create_rectangle.html
 canvas.create_rectangle(
     [ (500, 25), (650, 75) ],  #  coords: top-left, bottom-right
     fill="#3D9970")

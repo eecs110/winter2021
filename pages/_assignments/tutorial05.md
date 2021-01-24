@@ -136,4 +136,4 @@ If you have time (or are turning this assignment in for credit in lieu of attend
 
 
 ## What to turn in (same deal as always)
-Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, first zip your entire `tutorial05` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  
+Please turn in your completed tutorial exercise(s) on Canvas. To do this, first zip your entire `tutorial05` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  

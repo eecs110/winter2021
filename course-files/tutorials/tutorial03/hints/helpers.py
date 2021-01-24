@@ -1,9 +1,13 @@
-'''
-Documentation:
-https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas.html
-https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas-methods.html
-Color Picker: https://coolors.co/
-'''
+from tkinter import Canvas
+
+def make_square(canvas: Canvas, top_left: tuple, width: int, fill_color: str='#84A9C0', outline_color='#DDD'):
+    canvas.create_rectangle([
+            top_left,  # top_left
+            (top_left[0] + width, top_left[1] + width)  # bottom_right
+        ],
+        fill=fill_color,
+        outline=outline_color
+    )
 
 def make_grid(c, w, h):
     interval = 100

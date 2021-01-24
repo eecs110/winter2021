@@ -178,7 +178,7 @@ If you still have time, please experiment with some of the other built-in functi
 
 
 ## What to Turn In
-Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this: 
+Please turn in your completed tutorial exercise(s) on Canvas. To do this: 
 
 1. Zip your entire `project02` folder (with your edited files inside)
 2. Rename your zip file to `tutorial09`

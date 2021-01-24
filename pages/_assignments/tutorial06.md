@@ -47,4 +47,4 @@ Open `03_select_which_creature_to_move_with_keyboard.py` and do the following:
 5. Test your code by making sure that when you click on a different creature, the keyboard moves the correct one.
 
 ## What to turn in (same deal as always)
-Please turn in your completed tutorial exercise(s) ON CANVAS by Wednesday night at midnight. To do this, first zip your entire `tutorial06` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  
+Please turn in your completed tutorial exercise(s) on Canvas. To do this, first zip your entire `tutorial06` folder (with your edited files inside), and then upload your zip file to Canvas. Please ensure that your zip file includes **YOUR CODE**.  
