@@ -3,25 +3,25 @@ layout: module
 title: "Modules and Variable Scope"
 type: lecture
 num: 8
-draft: 1
+draft: 0
 due_date: 2021-01-29
-quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/124241
+quiz_url: https://canvas.northwestern.edu/courses/130514/quizzes/132652/
 description:
     - Creating modules
     - Global and local variables
 slides:
-  - url: https://docs.google.com/presentation/d/1bf7achAFtAf9Zpb2WJxhfNAvOyWO9D-3bPt2UDnu_kE/edit?usp=sharing
-    title: "Modules"
-  - url: https://docs.google.com/presentation/d/1WcutixtvM3qyNsCS5-9SIJLHqTK2LKFKy8l2ZcnAn8U/edit?usp=sharing
-    title: "Variable Scope"
-  - url: https://docs.google.com/presentation/d/1Knh9-oqYUW-8g2t7blKTwFGRgIHNvG0YiSFnu6ndncE/edit?usp=sharing
+  - url: https://docs.google.com/presentation/d/1CN3jITiHKL-9az4aNvoA_fqKwrYVNj7wywabWtjoTw0/edit?usp=sharing
+    title: "8a. Modules"
+  - url: https://docs.google.com/presentation/d/1ptk0WirXVv6E_ff5ZKDqBR0W0ymdpfM9qpDVHVb_zAU/edit?usp=sharing
+    title: "8b. Variable Scope"
+  - url: ""
     title: "Supplementary Slides for Live Lecture"
 videos:
    - title: "Modules"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdf22c7a-a0a5-4dd3-aa04-ac4800281691
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44f8da9c-4559-4ce3-aa3d-aca000063181
      duration: "20:05"
    - title: "Variable Scope"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6d77a18-c9c3-4926-96f0-ac48003185a1
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f491060-651e-4e02-9c77-aca0000630e5
      duration: "16:43"
 
 

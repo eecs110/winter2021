@@ -8,8 +8,9 @@ num: 7
 description:
   - More function practice (continuation from Monday)
 due_date: 2021-01-27
+# Note: these are ready to go (just update announcements)
 # slides:
-#   - url: https://docs.google.com/presentation/d/1Zh56r23K1NuMp1AtUE8wYYrIYDDDoSrxRgWsxl4uUXc/edit?usp=sharing
+#   - url: https://docs.google.com/presentation/d/1nquXm0yIKH1EG_NsxpzQ5koUJAK_qM3-huOUO9dFEMM/edit?usp=sharing
 #     title: "Supplementary Slides for Live Lecture"
 
 ---

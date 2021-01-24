@@ -9,6 +9,10 @@ description:
   - More practice creating functions
 due_date: 2021-01-25
 exercise_url: "lecture06.zip"
+# Note: these are ready to go (just update announcements)
+# slides:
+#   - url: https://docs.google.com/presentation/d/1lVc3uIJzKKj-h4-9myrF0cv9Y9sxDp-CvqHRNf0RgS0/edit?usp=sharing
+#     title: Supplementary Slides for Live Lecture
 ---
 
 In today's lecture (and for most of this week) we will continue to practice writing different kinds of functions. 
