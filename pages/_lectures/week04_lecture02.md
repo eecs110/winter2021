@@ -12,6 +12,7 @@ slides:
   - url: https://docs.google.com/presentation/d/1nquXm0yIKH1EG_NsxpzQ5koUJAK_qM3-huOUO9dFEMM/edit?usp=sharing
     title: "Supplementary Slides for Live Lecture"
 
+exercise_url: "lecture07.zip"
 ---
 
 In this lecture, we will be continuing our exploration of functions. The relevant videos and exercise files can be found in [Lesson 5](week03-lecture03).
