@@ -23,6 +23,10 @@ videos:
    - title: "Variable Scope"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f491060-651e-4e02-9c77-aca0000630e5
      duration: "16:43"
+   - title: "Live Lecture"
+     url: https://northwestern.zoom.us/rec/share/he_jRNfevJZ6sJiqP6W6s7KcvsFEMk9GNPiIL4rFxWMUe_gIdlTxLOfGN-divNqK.5gbcLF3SAnoa1GSm?startTime=1611935888000
+     live: 1
+     duration: "53:41"
 
 
 exercise_url: "lecture08.zip"
