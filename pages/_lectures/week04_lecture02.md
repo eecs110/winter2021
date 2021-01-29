@@ -11,6 +11,11 @@ due_date: 2021-01-27
 slides:
   - url: https://docs.google.com/presentation/d/1nquXm0yIKH1EG_NsxpzQ5koUJAK_qM3-huOUO9dFEMM/edit?usp=sharing
     title: "Supplementary Slides for Live Lecture"
+videos:
+  - url: https://northwestern.zoom.us/rec/share/19rG6ENHV77KN-sCDpmipKENESItoVSQ86LH0MGRVUgjRIWfLGBUVRV5199jlfsS.betEienq_-3g2WDr?startTime=1611763188000
+    title: "Live Lecture"
+    live: 1
+    duration: "50:41"
 
 exercise_url: "lecture07.zip"
 ---
