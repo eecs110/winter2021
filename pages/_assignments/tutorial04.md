@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Practice with Conditionals
 type: tutorial
 abbreviation: Tutorial 4
-draft: 1
+draft: 0
 points: 3
 num: 4
 due_date: 2021-02-05
@@ -13,7 +13,9 @@ due_date: 2021-02-05
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 
-The goal of this tutorial is to get you comfortable with if/else statements and while loops. Both of these types of statements are very powerful, so getting comfortable with them is essential (and will help you with [HW4](../assignments/hw4)). If you have a tutorial earlier in the week, then you have not yet reviewed **while loops**. Here are <a href="https://docs.google.com/presentation/d/1BUOFXuJSwFgolQP_lTR_cDl9LHy3t5AjdfRsiQDF8Cw/edit?usp=sharing" target="_blank">some slides</a> to explain the rules of while loops.
+**NOTE:** This quarter, there are some slight synchronization issues between what is covered in Tutorial and what is covered in Lecture. Technically, we're not covering **conditional statements** until [L10: Friday](../lectures/week05-lecture03) and we're not covering **while loops** until next [L11: Monday](../lectures/week06-lecture01). 
+
+If possible, take a look at some of the L10-L11 materials before coming to your tutorial section. If that's not possible, just do your best (and your peer mentor will help you). The main goal of this tutorial is to help you complete [HW4](../assignments/hw4)).
 
 ## Part 1: Number Guessing Game
 Open the `01_number_game.py` file and write a program for a number guessing game. The game already does the following:

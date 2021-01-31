@@ -4,9 +4,9 @@ title: Animations & Landscapes
 abbreviation: HW4
 type: homework
 files: course-files/assignments/hw04.zip
-due_date: 2021-02-10
+due_date: 2021-02-15
 points: 8
-draft: 1
+draft: 0
 ---
 
 
@@ -48,6 +48,17 @@ In `landscapes.py`, replace the code on lines 23-32 (which is repetitive) with a
     </ol>
 </div>
 
+### Hints / Suggestions
+There are some built-in helper functions that can help you detect where the car is on the screen:
+
+```python
+left_most_x_position = helpers.get_left(canvas, 'car1')`
+right_most_x_position = helpers.get_right(canvas, 'car1')`
+print(left_most_x_position, right_most_x_position)`
+```
+Use these functions to help you detect whether your car has moved off of the screen, ideally as part of a conditional statement.
+
+**Note:** feel free to take a look at the `helpers.py` module to see if there are any other helper functions that might be useful to you. And you're welcome to modify any of those functions if you want.
 
 ### Optional enhancements
 The more you practice, the better you'll get!

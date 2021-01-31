@@ -2,7 +2,7 @@
 layout: module
 title: Conditional Execution & Boolean Logic
 type: lecture
-draft: 1
+draft: 0
 num: 10
 description:
   - If / Else
@@ -10,9 +10,10 @@ description:
 due_date: 2021-02-05
 slides: 
    - title: "Conditionals & Boolean Logic"
-     url: "https://docs.google.com/presentation/d/1Ul1C935G2dli50Fp4jXYSDQ_TEk--F2As-9GBOIobls/edit?usp=sharing"
-   - title: "Supplementary Slides for Live Lecture"
-     url: "https://docs.google.com/presentation/d/1K7_IQMpaM2C0hd7SWkoKKFCDi5bKgTEi4xyfcBqxi1M/edit?usp=sharing"
+     url: https://docs.google.com/presentation/d/1Q1BA7qyZMuTc8uh8Qm0m_R_F6MKUkBkyQwgZAcGxTLA/edit?usp=sharing
+# Good to go!
+#    - title: "Supplementary Slides for Live Lecture"
+#      url: https://docs.google.com/presentation/d/1ol9I6lML2mQT8lKJMwSTByTARwqhqjFh_J3UIn4cbjQ/edit?usp=sharing
 readings:
   - title: "Ch3: Conditionals"
     author: "Severance"
@@ -23,20 +24,21 @@ readings:
     url: http://openbookproject.net/thinkcs/python/english3e/conditionals.html
 videos:
   - title: "Intro to conditionals"
-    url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7863d81e-b9d9-43de-9203-ac510017b4f8"
-    duration: "9:20"
+    url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3259afd2-4dc5-46a9-ae0d-aca000062f0f
+    duration: "8:57"
   - title: "If and else"
-    url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff743751-0bfe-4760-b9d5-ac510017b4ce"
-    duration: "15:03"
+    url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fbb712e-60a6-43d6-bd33-aca000062faf
+    duration: "14:40"
   - title: "Elif"
-    url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84e84244-45f9-4a1b-93a0-ac510017b494"
-    duration: "11:06"
+    url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4fdb7d3-3730-436b-9dd7-aca000063032
+    duration: "10:49"
   - title: "Logical operators and Truth Tables"
-    url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e91fee92-305e-440f-80f8-ac510017b52d"
-    duration: "22:49"
+    url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5bf6d74d-8a51-4ef3-9193-aca000062e77
+    duration: "22:22"
 
 exercise_url: "lecture11.zip"
-quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/125686
+# TODO: Post after Q1
+# quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/125686
 ---
 
 <img class="module-image" src="/winter2021/assets/images/lectures/fork.jpg" /> In this lesson, we're going to go over conditional logic, which will allow you to write programs that have different outcomes depending on the data, events, and/or user interactions that take place as your program executes. This is often referred to as your program's "state." Specifically, we'll cover: (a) if, if/else, if/elif.../else statements, (b) comparison operators, (c) truth tables, and (d) scenarios where you might want to use if/elif/else statements.

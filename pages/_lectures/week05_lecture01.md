@@ -1,25 +1,16 @@
 ---
-layout: module
+layout: two-column
 title: Quiz 1 Review
 type: lecture
 num: 9
-draft: 1
+draft: 0
 due_date: 2021-02-01
 description:
-    - Intro to PIP (python package manager)
     - Questions about Q1
-
-readings:
-  - title: "What is PIP?"
-    url: https://www.pythonforbeginners.com/basics/how-to-use-pip-and-pypi
-    source: "Python for Beginners"
-slides: 
-   - title: "Third-Party Modules"
-     url: https://docs.google.com/presentation/d/1q_tC3m7_T0JhzFIkU0pFObpvYdvkZnXKWko5r28jCa0/edit?usp=sharing
-
-exercise_url: "lecture09.zip"
 ---
 
-In lecture today, we're going to go over installing third-party modules using PIP (a command line tool to install third-party Python libraries). This will not be on the quiz, but it's important when you're working with Python. 
+Today we'll go over any questions that you'd like! Feel free to ask about any problems from the practice quizzes or study guide (below) or any other concepts that could be useful:
 
-If we have time, we can also go over any questions that you have about writing functions. We will also have all day on Wednesday to go over any questions relating to Quiz 1.
+* <a href="https://docs.google.com/document/d/1U8nQCS6SoCej9rsevE803b5HY9tnQROH8oTcrDxOiGo/edit?usp=sharing" target="_blank">Study Guide</a>
+* <a href="https://canvas.northwestern.edu/courses/130514/quizzes" target="_blank">Practice mini-quizzes</a>
+* <a href="https://canvas.northwestern.edu/courses/130514/quizzes" target="_blank">Practice quizzes</a>

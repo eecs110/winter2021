@@ -6,14 +6,15 @@ description:
     - How long do you want to repeat it?
     - What changes each time (optional)?
 type: lecture
-draft: 1
+draft: 0
 num: 11
 due_date: 2021-02-08
 slides: 
    - title: "Repeating Tasks with Code: While Loops"
-     url: https://docs.google.com/presentation/d/14MU6Kba2MfkDVfhZ1uehFQi-j_XJ2JAG8mfj73VqAJM/edit?usp=sharing
-   - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1qXlExgUvRGdiARji0cxktJZN881fwGT0bjfeDYkmr5k/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/1J5f1OoA8I4ghjJFuQPS-elDh9WI_Q_2F4agw4SLLSLs/edit?usp=sharing
+# correct link added but announcements need to be edited.
+#    - title: "Supplementary Slides for Live Lecture"
+#      url: https://docs.google.com/presentation/d/1xhwNL0utoQY5rJzRshUk9E66goovZjxPxeSbmnePLXg/edit?usp=sharing
 readings:
   - title: "Ch5: Iteration"
     author: "Severance"
@@ -24,17 +25,17 @@ readings:
     url: http://openbookproject.net/thinkcs/python/english3e/iteration.html
 videos:
    - title: "Introduction to loops"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=face3e16-0900-41bf-95aa-ac5300db3cb9
-     duration: "9:07"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf46c831-58ff-49c3-8836-aca000062dc5
+     duration: "7:23"
    - title: "While loops example"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37c3c020-0c9b-4b28-9bfe-ac5300e78956"
-     duration: "15:51"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5fea8d9a-5f1f-4439-93dc-aca000062d3c
+     duration: "15:30"
    - title: "Loops & Lists"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05efb09d-ccd6-47ff-90a6-ac5300ec9c84"
-     duration: "22:04"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47498937-5940-4158-808c-aca000062ca2
+     duration: "15:11"
 
 
-exercise_url: "lecture12.zip"
+exercise_url: "lecture11.zip"
 ---
 
 <img class="module-image" src="/winter2021/assets/images/lectures/loops.gif" /> In this lesson, we’re going to go over while loops -- a way of allowing your program to repeat code for a specified number of iterations. Being able to repeat code blocks (also know as "looping" or "iterating") is very powerful, and will allow you to easily perform repetitive tasks in a variety of different contexts: playing songs, drawing pictures, building animations, doing data processing, and so forth. I also highly recommend that you read Chapter 5 in the Severance (Python for Everyone), for additional review.

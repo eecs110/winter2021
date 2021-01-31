@@ -198,53 +198,71 @@ ol.readings, ul.readings {
         }
     }
 }
+blockquote {
 
-blockquote.caveat {
-    margin: 20px 0px 20px 40px;
-    background: none;
-    border-left: 0px;
-    padding: 25px;
-    padding: 0px;
-} 
-
-blockquote.quote {
-    margin-left: 20px;
-    background: none;
-    border-left: 0px;
-    padding: 25px;
-    font-size: 1.2em;
-    font-weight: 500;
-    margin-bottom: 30px;
-
-    p:before {
-        content: '“';
-        color: $lightgrey;
-        font-size: 2em;
-        line-height: 0.1em;
-        margin-right: 0.1em;
-        vertical-align: -0.4em;
-        font-family: 'Times New Roman', Times, serif;
-        vertical-align: middle;
-    }
-    &.slim {
-        border-left: solid 10px #EEE;
-        // margin: 0px;
-        color: #BBB;
-        // font-size: 1.4em;
-        // font-weight: 600;
-        margin-left: 30px;
-        background: #FCFCFC;
-        padding-left: 20px;
-        padding-bottom: 0px;
-        p {
-            margin-bottom: 20px;
-            font-weight: 400;
-            color: #aaa;
-            font-size: 20px;
+    &.callout {
+        padding: 20px 20px 0px 10px;
+        margin: 0px;
+        padding-bottom: 20px;
+        background: #e4e0ee;
+        border-left: solid 7px #846dac;
+        color: $purple;
+        h1, h2, h3, p {
+            color: $purple !important;
+        }
+        h1, h2, h3 {
+            padding-top: 0px !important;
+            margin-top: 0px !important;
         }
     }
-    &.slim:before {
-        font-size: 3em;
+
+    &.caveat {
+        margin: 20px 0px 20px 40px;
+        background: none;
+        border-left: 0px;
+        padding: 25px;
+        padding: 0px;
+    } 
+
+    &.quote {
+        margin-left: 20px;
+        background: none;
+        border-left: 0px;
+        padding: 25px;
+        font-size: 1.2em;
+        font-weight: 500;
+        margin-bottom: 30px;
+    
+        p:before {
+            content: '“';
+            color: $lightgrey;
+            font-size: 2em;
+            line-height: 0.1em;
+            margin-right: 0.1em;
+            vertical-align: -0.4em;
+            font-family: 'Times New Roman', Times, serif;
+            vertical-align: middle;
+        }
+        &.slim {
+            border-left: solid 10px #EEE;
+            // margin: 0px;
+            color: #BBB;
+            // font-size: 1.4em;
+            // font-weight: 600;
+            margin-left: 30px;
+            background: #FCFCFC;
+            padding-left: 20px;
+            padding-bottom: 0px;
+            p {
+                margin-bottom: 20px;
+                font-weight: 400;
+                color: #aaa;
+                font-size: 20px;
+            }
+        }
+        &.slim:before {
+            font-size: 3em;
+        }
     }
 }
 
