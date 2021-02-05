@@ -1,12 +1,12 @@
 '''
 INSTRUCTIONS: Update this function as follows:
-If red is turned on, make the background red.
-If yellow is turned on, make the background yellow.
-If blue is turned on, make the background blue.
-If red and yellow are both turned on, make the background orange.
-If red and blue are turned on, make the background purple.
-If yellow and blue are turned on, make the background green.
-If everything is turned on, then make the background black.
+If only red is turned on, return red.
+If only yellow is turned on, return yellow.
+If only blue is turned on, return blue.
+If only red and yellow are both turned on, return orange.
+If only red and blue are turned on, return purple.
+If only yellow and blue are turned on, return green.
+If everything is turned on, return black.
 '''
 
 def get_color(red_switch:bool, green_switch:bool, blue_switch:bool):

@@ -11,9 +11,8 @@ due_date: 2021-02-05
 slides: 
    - title: "Conditionals & Boolean Logic"
      url: https://docs.google.com/presentation/d/1Q1BA7qyZMuTc8uh8Qm0m_R_F6MKUkBkyQwgZAcGxTLA/edit?usp=sharing
-# Good to go!
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: https://docs.google.com/presentation/d/1ol9I6lML2mQT8lKJMwSTByTARwqhqjFh_J3UIn4cbjQ/edit?usp=sharing
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1ol9I6lML2mQT8lKJMwSTByTARwqhqjFh_J3UIn4cbjQ/edit?usp=sharing
 readings:
   - title: "Ch3: Conditionals"
     author: "Severance"
@@ -37,8 +36,7 @@ videos:
     duration: "22:22"
 
 exercise_url: "lecture11.zip"
-# TODO: Post after Q1
-# quiz_url: https://canvas.northwestern.edu/courses/120087/quizzes/125686
+quiz_url: https://canvas.northwestern.edu/courses/130514/quizzes/132653
 ---
 
 <img class="module-image" src="/winter2021/assets/images/lectures/fork.jpg" /> In this lesson, we're going to go over conditional logic, which will allow you to write programs that have different outcomes depending on the data, events, and/or user interactions that take place as your program executes. This is often referred to as your program's "state." Specifically, we'll cover: (a) if, if/else, if/elif.../else statements, (b) comparison operators, (c) truth tables, and (d) scenarios where you might want to use if/elif/else statements.
