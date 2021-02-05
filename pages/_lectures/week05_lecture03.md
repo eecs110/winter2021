@@ -35,7 +35,7 @@ videos:
     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5bf6d74d-8a51-4ef3-9193-aca000062e77
     duration: "22:22"
 
-exercise_url: "lecture11.zip"
+exercise_url: "lecture10.zip"
 quiz_url: https://canvas.northwestern.edu/courses/130514/quizzes/132653
 ---
 
