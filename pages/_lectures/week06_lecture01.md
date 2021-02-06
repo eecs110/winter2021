@@ -12,9 +12,8 @@ due_date: 2021-02-08
 slides: 
    - title: "Repeating Tasks with Code: While Loops"
      url: https://docs.google.com/presentation/d/1J5f1OoA8I4ghjJFuQPS-elDh9WI_Q_2F4agw4SLLSLs/edit?usp=sharing
-# correct link added but announcements need to be edited.
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: https://docs.google.com/presentation/d/1xhwNL0utoQY5rJzRshUk9E66goovZjxPxeSbmnePLXg/edit?usp=sharing
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1xhwNL0utoQY5rJzRshUk9E66goovZjxPxeSbmnePLXg/edit?usp=sharing
 readings:
   - title: "Ch5: Iteration"
     author: "Severance"

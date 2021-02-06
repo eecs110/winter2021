@@ -5,31 +5,32 @@ description:
     - Intro to for loops syntax
     - Using for loops with lists and sequences
 type: lecture
-draft: 1
+draft: 0
 num: 13
 due_date: 2021-02-12
 slides: 
    - title: "More Loops: For Loops & Lists"
-     url: https://docs.google.com/presentation/d/1EO7Lk5iv_k7dw5FgfLO13T1AD2-LpRzCd-uHtDSq8yM/edit?usp=sharing
-   - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1w11NnZ2VfJ1nGCMob1C1CAp1DNDRWPrMBRYT3TsC9tI/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/1UcIJyqyc-lAZKVbCiIn30jpfps2j-ivi_OmqufWF9_Y/edit?usp=sharing
+# TODO: Update 
+#    - title: "Supplementary Slides for Live Lecture"
+#      url: https://docs.google.com/presentation/d/1MKiS2ntc9pQcM4T-m8hV8gfNqdHndeHJzzYhs_XvamM/edit?usp=sharing
 videos:
    - title: "Intro to for loops"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c52b7ba-2496-4e69-a5b8-ac5701804a89"
-     duration: "8:29"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1af7e48-8986-4977-8916-aca000062b1d
+     duration: "8:14"
    - title: "Break and continue"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24f8c3b6-d2f2-4c55-90dd-ac570182c230"
-     duration: "6:59"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80684308-e025-426f-8c6b-aca000062a78
+     duration: "6:40"
    - title: "The range function"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46489f3e-0c40-478b-8f76-ac570179345d"
-     duration: "9:09"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4a3edac-bf1d-4cd0-bcf8-aca000062c1f
+     duration: "8:54"
    - title: "Looping algorithms"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b95a7de-2b8a-4c86-ab89-ac5701793481"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c111be39-de8e-4e3d-9d00-aca000062b97
      duration: "14:02"
 
      
-quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125689"
-exercise_url: "lecture14.zip"
+quiz_url: https://canvas.northwestern.edu/courses/130514/quizzes/132648/
+exercise_url: "lecture13.zip"
 ---
 
 Today, we will be introducing the "for loop" and using it to work with lists and sequences. We will also be exploring some different looping algorithms: applying while and for loops to do various kinds of computations.

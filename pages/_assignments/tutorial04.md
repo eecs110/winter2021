@@ -42,7 +42,7 @@ Your job is to finish the game by implementing the following features:
 1. Open `02_vertical_circles.py` 
 2. See if you can use a while loop to recreate this functionality, where there is only one make_circle function call that is repeated within a while loop.
 
-<img class="frame" style="width: 100px;" src="/winter2021/assets/images/tutorial03/vertical_circles.png" />
+<img class="frame" style="width: 100px;" src="/winter2021/assets/images/tutorial04/vertical_circles.png" />
 
 ### Hints
 1. You will need to initialize a counter
@@ -52,7 +52,7 @@ Your job is to finish the game by implementing the following features:
 ## Extra Challenges: Drawing with Loops
 Practice creating the following shapes using a while loop. The first three shapes are recommended for everyone. The last two (spirograph ones) are optional. If you pursue the latter two, see if you can get implementation ideas here (or using some other source).
 
-<img class="med-lg center frame" src="/winter2021/assets/images/tutorial03/shapes.png" />
+<img class="med-lg center frame" src="/winter2021/assets/images/tutorial04/shapes.png" />
 
 ## Hints
 1. Q: What do you want to repeat?
