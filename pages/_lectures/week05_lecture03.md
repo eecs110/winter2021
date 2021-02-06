@@ -34,6 +34,10 @@ videos:
   - title: "Logical operators and Truth Tables"
     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5bf6d74d-8a51-4ef3-9193-aca000062e77
     duration: "22:22"
+  - title: "Live Lecture"
+    url: https://northwestern.zoom.us/rec/share/2jT0SS9einKuOlnQf7DLLZbmQnJnfso1I2lGHnOpn6WsZBzmoAe1Dg-adHzuVRST.h3CfaihxSvkWcgUx?startTime=1612540703000
+    duration: "53:33"
+    live: 1
 
 exercise_url: "lecture10.zip"
 quiz_url: https://canvas.northwestern.edu/courses/130514/quizzes/132653
