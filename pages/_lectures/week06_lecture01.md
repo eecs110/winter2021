@@ -32,6 +32,11 @@ videos:
    - title: "Loops & Lists"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47498937-5940-4158-808c-aca000062ca2
      duration: "15:11"
+   - title: "Live Lecture"
+     url: https://northwestern.zoom.us/rec/share/10lZ9eCca5KWq1LpaTpntJJ2N4Nd7Z0Vi1VzxeB_THL4xMBRy1GOvbZuBm117YAO.pqVzHCF-_0zVfq5n?startTime=1612799900000
+     duration: "52:58"
+     live: 1
+
 
 
 exercise_url: "lecture11.zip"
