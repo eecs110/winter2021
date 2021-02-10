@@ -13,6 +13,12 @@ slides:
      url: https://docs.google.com/presentation/d/1zWJqKYUuOReZIjhD3CcHlG0tOUQd9eRklsfl5Q3i6Mo/edit?usp=sharing
 
 exercise_url: "lecture12.zip"
+videos:
+   - title: "Live Lecture"
+     url: https://northwestern.zoom.us/rec/share/2B7pSOYXt1X3c4KYLQj-K4ruZYwP0hdu4YmeE3yRWdk0kgo1AV-j3TvIGeUgESfn._PxziQ7BRdLhfCvZ?startTime=1612972714000
+     live: 1
+     duration: "54:54"
+     
 quiz_url: "https://canvas.northwestern.edu/courses/130514/quizzes/132650/"
 
 ---
