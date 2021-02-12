@@ -26,6 +26,10 @@ videos:
    - title: "Looping algorithms"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c111be39-de8e-4e3d-9d00-aca000062b97
      duration: "14:02"
+   - title: "Live Lecture"
+     url: https://northwestern.zoom.us/rec/share/OshACza15Nsp7W4YO3T1XGLbFg436Zr1SkB7Dk3qqOuYpyDZligs3maOzj6rp9yU.g7P8V847tFNJdhoK
+     live: 1
+     duration: "53:39"
 
      
 quiz_url: https://canvas.northwestern.edu/courses/130514/quizzes/132648/
