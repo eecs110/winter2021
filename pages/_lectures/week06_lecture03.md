@@ -11,9 +11,8 @@ due_date: 2021-02-12
 slides: 
    - title: "More Loops: For Loops & Lists"
      url: https://docs.google.com/presentation/d/1UcIJyqyc-lAZKVbCiIn30jpfps2j-ivi_OmqufWF9_Y/edit?usp=sharing
-# TODO: Update 
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: https://docs.google.com/presentation/d/1MKiS2ntc9pQcM4T-m8hV8gfNqdHndeHJzzYhs_XvamM/edit?usp=sharing
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1MKiS2ntc9pQcM4T-m8hV8gfNqdHndeHJzzYhs_XvamM/edit?usp=sharing
 videos:
    - title: "Intro to for loops"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1af7e48-8986-4977-8916-aca000062b1d
