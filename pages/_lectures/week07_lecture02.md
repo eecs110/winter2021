@@ -9,13 +9,12 @@ type: lecture
 draft: 1
 num: 15
 due_date: 2021-02-17
-# slides: 
-#    - title: "Handling User Input & Event Handlers"
-#      url: https://docs.google.com/presentation/d/10r73Xh63awBIFhe3gW9_csOFTpUu2ZS_9OhNw1Th0uU/edit?usp=sharing
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: https://docs.google.com/presentation/d/1uAqFw4yA2UEahgvJUsvUCuiRlIVgZOqGsodwya1xZyg/edit?usp=sharing
+slides: 
+   - title: "Handling User Input & Event Handlers"
+     url: https://docs.google.com/presentation/d/10r73Xh63awBIFhe3gW9_csOFTpUu2ZS_9OhNw1Th0uU/edit?usp=sharing
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1uAqFw4yA2UEahgvJUsvUCuiRlIVgZOqGsodwya1xZyg/edit?usp=sharing
 exercise_url: "lecture15.zip"
-# These vid links are good to go
 videos:
    - title: "L15a: Intro to the Project"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e0767f9-26ab-430a-8296-aca000062836
