@@ -6,6 +6,7 @@ import helpers
 import utilities
 import time
 import random
+import keycodes
 
 gui = Tk()
 gui.title('Tour of options...')
@@ -18,12 +19,12 @@ canvas.pack()
 
 ########################## YOUR CODE BELOW THIS LINE ##############################
 MOUSE_CLICK = '<Button-1>'
-MOUSE_DRAG = '<B1-Motion>'
+# DOUBLE_CLICK = '<Double-Button-1>'  # couldn't get it to work
 RIGHT_CLICK = '<Button-2>'
 KEY_PRESS = '<Key>'
 canvas.create_text(
     (window_width / 2, window_height / 2), 
-    text='Click circle to select it. Drag selected circle to move it.', 
+    text='Click to add a circle. Right-click to select circle. Press arrow keys to move circle', 
     font=("Purisa", 32)
 )
 
@@ -44,42 +45,39 @@ def select_circle(event):
         utilities.update_fill_by_tag(canvas, active_tag, 'yellow')
 
 
-def move_circle(event):
-    if not active_tag:
-        print('no tag selected')
-        return
-    
-    center = utilities.get_center_coords(canvas, active_tag)
-    x = center[0]
-    y = center[1]
-
-    # calculate the delta of the current shape:
-    delta_x = -1 * (x - event.x)
-    delta_y = -1 * (y - event.y)
-
-    # move the shape:
-    utilities.update_position_by_tag(canvas, active_tag, x=delta_x, y=delta_y)
 
 counter = 1
-def make_circle(x, y):
+def make_circle(event):
     global counter
     utilities.make_circle(
         canvas,
-        (x, y),
+        (event.x, event.y),
         20, 
         color='hotpink',
         tag='circle_' + str(counter)
     )
     counter += 1
-    canvas.focus_set()
+
+def move_circle(event):
+    distance = 10
+    if event.keycode == keycodes.get_up_keycode():
+        utilities.update_position_by_tag(canvas, tag=active_tag, x=0, y=-distance)
+    elif event.keycode == keycodes.get_down_keycode():
+        utilities.update_position_by_tag(canvas, tag=active_tag, x=0, y=distance)
+    elif event.keycode == keycodes.get_left_keycode():
+        utilities.update_position_by_tag(canvas, tag=active_tag, x=-distance, y=0)
+    elif event.keycode == keycodes.get_right_keycode():
+        utilities.update_position_by_tag(canvas, tag=active_tag, x=distance, y=0)
+    else:
+        print(event.keycode)
+
+canvas.bind(MOUSE_CLICK, make_circle) 
+canvas.bind(KEY_PRESS, move_circle)
+canvas.bind(RIGHT_CLICK, select_circle)
 
 
-canvas.bind(MOUSE_CLICK, select_circle) 
-canvas.bind(MOUSE_DRAG, move_circle)
-
-for i in range(50):
-    make_circle(random.randint(0, window_width), random.randint(0, window_height))
-
+# NOTE: canvas.focus_set() is critical to making the keyboard functions work:
+canvas.focus_set()
 
 ########################## YOUR CODE ABOVE THIS LINE ############################## 
 # makes sure the canvas keeps running:

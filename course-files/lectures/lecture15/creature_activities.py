@@ -10,6 +10,7 @@ canvas = Canvas(gui, width=500, height=500)
 canvas.pack()
 ########################## YOUR CODE BELOW THIS LINE ##############################
 
+# note that I'm tagging the creatures:
 creature.make_creature(canvas, (200, 200), size=150, tag='creature_1', fill='#f0a202')
 creature.make_creature(canvas, (100, 400), size=50, tag='creature_2', fill='#f18805')
 creature.make_creature(canvas, (50, 400), size=75, tag='creature_3', fill='#f0a202')
@@ -18,11 +19,14 @@ creature.make_creature(canvas, (350, 350), size=150, tag='creature_5', fill='#7b
 
 palette = ['#f0a202', '#f18805', '#d95d39', '#0e1428', '#7b9e89']
 
-while True:
-    utilities.update_position_by_tag(canvas, 'creature_1', x=1, y=1)
-    utilities.update_position_by_tag(canvas, 'creature_4', x=-1, y=0)
-    gui.update()
-    time.sleep(0.01)
+'''
+Your tasks:
+* Animate creatures 1 and 4 (however you like).
+* Create a click event so that every time you click the canvas, 
+  a new creature is added to the screen with a random size, 
+  position, and color.
+* Make creature_2 draggable.
+'''
 
 
 ########################## YOUR CODE ABOVE THIS LINE ############################## 

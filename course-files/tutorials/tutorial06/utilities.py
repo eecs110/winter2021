@@ -180,17 +180,8 @@ def get_width(canvas, tag):
     x_coords = _get_x_coordinates(canvas, tag)
     return max(*x_coords) - min(*x_coords)
 
-def get_center_x(canvas, tag):
+def get_center(canvas, tag):
     return get_width(canvas, tag) / 2 + get_left(canvas, tag)
-
-def get_center_coords(canvas, tag):
-    width = get_width(canvas, tag)
-    height = get_height(canvas, tag)
-    left = get_left(canvas, tag) 
-    top = get_top(canvas, tag) 
-    center_x = left + (width / 2)
-    center_y = top + (height / 2)
-    return (center_x, center_y)
 
 def get_height(canvas, tag):
     '''
@@ -268,15 +259,17 @@ def make_image(
     canvas.create_image(*position, image=tkinter_image, anchor=anchor, **kwargs)
 
 def get_tag_from_x_y_coordinate(canvas, x, y):
-    shape_ids = canvas.find_overlapping(x-1, y-1, x+1, y+1) # get the top shape
-    # print(shape_ids)
-    if shape_ids:
-        shape_id = shape_ids[-1]
-        tags = canvas.gettags(shape_id)
-        if len(tags) > 0:
-            # print(tags)
-            return tags[0]
-    return None
+    try:
+        shape_id = canvas.find_closest(x, y) # get the top shape
+        if shape_id:
+            tags = canvas.gettags(shape_id)
+            if len(tags) > 0:
+                # print(tags)
+                return tags[0]
+        return None
+    except:
+        print('error: none found')
+        return None
 
 def update_position_by_tag(canvas, tag, x=2, y=0):
     ids = canvas.find_withtag(tag)
@@ -294,7 +287,7 @@ def delete_by_tag(canvas, tag):
         canvas.delete(id)
 
 def flip(canvas, tag):
-    center = get_center_x(canvas, tag)
+    center = get_center(canvas, tag)
     width = get_width(canvas, tag)
     shape_ids = canvas.find_withtag(tag)
     for shape_id in shape_ids:

@@ -6,14 +6,14 @@ description:
     - Expanding your I/O repertoire
     - Click, drag, and keyboard events
 type: lecture
-draft: 1
+draft: 0
 num: 15
 due_date: 2021-02-17
 slides: 
    - title: "Handling User Input & Event Handlers"
-     url: https://docs.google.com/presentation/d/10r73Xh63awBIFhe3gW9_csOFTpUu2ZS_9OhNw1Th0uU/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/1v2EcoXIEkkphWA1DC1EJWGIKe011rjmHs6hKvoHNOd4/edit?usp=sharing
    - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1uAqFw4yA2UEahgvJUsvUCuiRlIVgZOqGsodwya1xZyg/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/1Mtpj-8PtyIstAtPNEcKQL8wVImQg2yyM4tDOFnbZ5yA/edit?usp=sharing
 exercise_url: "lecture15.zip"
 videos:
    - title: "L15a: Intro to the Project"

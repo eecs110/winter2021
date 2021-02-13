@@ -3,8 +3,8 @@ layout: assignment-two-column
 title: Event Handlers
 type: tutorial
 abbreviation: Tutorial 6
-draft: 1
-num: 4
+draft: 0
+num: 6
 points: 3
 due_date: 2021-02-19
     
