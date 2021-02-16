@@ -52,9 +52,9 @@ In `landscapes.py`, replace the code on lines 23-32 (which is repetitive) with a
 There are some built-in helper functions that can help you detect where the car is on the screen:
 
 ```python
-left_most_x_position = helpers.get_left(canvas, 'car1')`
-right_most_x_position = helpers.get_right(canvas, 'car1')`
-print(left_most_x_position, right_most_x_position)`
+left_most_x_position = helpers.get_left(canvas, 'car1')
+right_most_x_position = helpers.get_right(canvas, 'car1')
+print(left_most_x_position, right_most_x_position)
 ```
 Use these functions to help you detect whether your car has moved off of the screen, ideally as part of a conditional statement.
 
