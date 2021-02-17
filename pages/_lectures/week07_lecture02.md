@@ -28,6 +28,10 @@ videos:
    - title: "L15d: Other Events"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa8ec0f3-0557-4bf4-a5ea-aca000062a0d
      duration: "12:23"
+   - title: Live Lecture
+     url: https://northwestern.zoom.us/rec/share/zPI517RIuDkw--H-JtpJWCr6jI0vsybpRihhw-nt1LEhTg-JGFuGoL4dZ30puAfJ.9ebXUcPE2blpqxp0?startTime=1613577507000
+     duration: "57:11"
+     live: 1
 
 
      
