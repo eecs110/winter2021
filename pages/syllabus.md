@@ -59,8 +59,7 @@ We have 22 peer mentors (undergraduates) and 2 graduate TAs to help you:
 * Lily Yan (lilyyan2023@u.northwestern.edu)
 * Alberta Yoo (AlbertaYoo2021@u.northwestern.edu)
 
-### Graduate Teaching Assistants
-* Conor	Hetland (conorhetland2015@u.northwestern.edu)
+### Graduate Teaching Assistant
 * Andi Zang (andi.zang@u.northwestern.edu)
 
 ## Course Materials and Resources 
