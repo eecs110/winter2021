@@ -5,33 +5,33 @@ description:
     - Working with templates
     - Error handling
 type: lecture
-draft: 1
+draft: 0
 num: 18
 due_date: 2021-02-26
 slides: 
    - title: "More Files & Strings + Error Handling"
-     url: ""
-   - title: "Supplementary Slides for Live Lecture"
-     url: ""
+     url: https://docs.google.com/presentation/d/1wADNQBZ4hn-kdiq33zGWWgr5xII9cM0ijE9xfrfyKrE/edit?usp=sharing
+#    - title: "Supplementary Slides for Live Lecture"
+#      url: ""
 videos:
    - title: "L18a: Parsing file data"
-     url: ""
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79cbe5fa-e056-4769-bc0b-aca000062439
      duration: "16:15"
    - title: "L18b: Error handling"
-     url: ""
-     duration: "12:56"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3441989e-426a-4719-9c38-aca0000623bb
+     duration: "12:37"
    - title: "L18c: More string functions"
-     url: ""
-     duration: "9:26"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0db79472-b46f-43d1-bb8b-aca000062546
+     duration: "9:05"
    - title: "L18d: Templates"
-     url: ""
-     duration: "6:16"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=433d2ec0-cfbe-4143-a662-aca0000624cb
+     duration: "6:00"
    - title: "L18e: Templates: example"
-     url: ""
-     duration: "18:13"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5eedc68-3b74-45ad-bfce-aca000062325
+     duration: "17:58"
    - title: "L18f: Retrieving files via HTTP/HTTPS"
-     url: ""
-     duration: "10:25"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39ad9a73-9ae8-4df6-bc1d-aca0000622bd
+     duration: "9:59"
 
 exercise_url: "lecture18.zip"
 ---
