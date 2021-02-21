@@ -109,12 +109,52 @@ Office hours and locations / Zoom links are posted <a href="{{site.baseurl}}/tim
 ## Grading
 Your course grade is calculated based on 200 points as follows:
 
-{:.medium}
-| **2 Projects** | 2 x 40 Points | 80 Points | 40% |
-| **2 Quizzes** (of 3) | 2 x 30 Points (lowest score dropped) | 60 Points | 30% |
-| **5 Homeworks** (of 6) | 5 x 8 Points (lowest score dropped) | 40 Points | 20% |
-| **7 Tutorials** (of 9) | 7 x ~3 Points (lowest scores dropped) | 20 Points | 10% |
-| | | **200 Points** | **100%** |
+{:.large}
+<table class="large">
+    <tr>
+        <th>2 Projects</th>
+        <td>2 x 40 Points</td>
+        <td>80 Points</td>
+        <td>40%</td>
+    </tr>
+    <tr>
+        <th>2 Quizzes</th>
+        <td>2 x 30 Points (lowest score dropped)</td>
+        <td>60 Points</td>
+        <td>30%</td>
+    </tr>
+    <tr>
+        <th>5 Homeworks (of 6)</th>
+        <td>5 x 8 Points (lowest score dropped)</td>
+        <td>40 Points</td>
+        <td>20%</td>
+    </tr>
+    <tr>
+        <th>7 Tutorials (of 9)</th>
+        <td>7 x ~3 Points (lowest scores dropped)</td>
+        <td>20 Points</td>
+        <td>10%</td>
+    </tr>
+    <tr>
+        <th>Extra Credit</th>
+        <td>
+            Various options:
+            <ul>
+                <li>Completing a 6th homework assignment (up to 8 points)</li>
+                <li>P1: implementing extra features</li>
+                <li>P2: implementing extra features</li>
+            </ul>
+        </td>
+        <td>varied</td>
+        <td>extra credit</td>
+    </tr>
+    <tr>
+        <th></th>
+        <td></td>
+        <td><strong>200 Points</strong></td>
+        <td><strong>100%</strong></td>
+    </tr>
+</table>
 
 Final grades are assigned on a fixed scale: 93-100 is 
 an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:

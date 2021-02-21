@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Getting Started on Project 2
+title: Project 2 Preview
 type: tutorial
 abbreviation: Tutorial 9
 draft: 1
