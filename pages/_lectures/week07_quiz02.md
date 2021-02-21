@@ -8,6 +8,11 @@ draft: 0
 num: 2
 due_date: 2021-02-19
 ---
+
+{:.callout}
+> Link to live Quiz 2 (take using the Lockdown Browser): <a href="https://canvas.northwestern.edu/courses/130514/quizzes/138242" target="_blank">https://canvas.northwestern.edu/courses/130514/quizzes/138242</a>
+
+
 ## How to Take The Actual Quiz
 There will be two windows for the quiz:
 

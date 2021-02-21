@@ -6,14 +6,15 @@ description:
     - reading from and writing to files
     - examining different file types
 type: lecture
-draft: 1
+draft: 0
 num: 16
 due_date: 2021-02-22
 slides: 
    - title: "Working with Files"
-     url: https://docs.google.com/presentation/d/10PHJet0ugSaKPBIyelW8Gc31C5UjS0yuPI5jFAMEHVY/edit?usp=sharing
-   - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1PU8Hqnvyy4YgY98pBA3pLvx271f-bGxkOMAw0Ru1g98/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/15ugmBkj6kjyIugZXF7exB14psG1PPLzykS0LM6AiG-k/edit?usp=sharing
+# ready to go!
+#    - title: "Supplementary Slides for Live Lecture"
+#      url: https://docs.google.com/presentation/d/1_jzXnfYZTOdRghTWSJY8K7AoVGa00bXZMcWCaxeC-h0/edit?usp=sharing
 readings:
   - title: "Ch6: Strings"
     author: "Severance"
@@ -24,22 +25,17 @@ readings:
     url: https://www.py4e.com/html3/07-files
     video_url: https://www.py4e.com/lessons/files
 videos:
-   - title: "L17a: String & List Functions"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e125524d-4800-4a54-848a-ac6200326f7e"
-     duration: "10:15"
-   - title: "L17b: Reading & Writing Files"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5641bed4-583f-4979-8e46-ac6200326fc3"
+   - title: "L16a: String & List Functions"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a27e1a-8928-4db0-9a31-aca000062791
+     duration: "10:05"
+   - title: "L16b: Reading & Writing Files"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e31aa444-0ee7-4b02-a912-aca0000626c7
      duration: "8:00"
-   - title: "L17c: Some Example Programs"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79ff3149-5d1a-4385-a0e1-ac6200327003"
-     duration: "5:39"
-
-
-
-
-exercise_url: "lecture17.zip"
+   - title: "L16c: Some Example Programs"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=462d9e97-7fac-424d-bec4-aca000062614
+     duration: "5:26"
+exercise_url: "lecture16.zip"
 ---
-
 
 Today, you will be learning to work with files --  including reading them, writing them, and appending to them. Because many file formats involve text, you will also be learning to work with some common string functions.
 
