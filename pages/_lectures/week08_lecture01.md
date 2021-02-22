@@ -12,9 +12,8 @@ due_date: 2021-02-22
 slides: 
    - title: "Working with Files"
      url: https://docs.google.com/presentation/d/15ugmBkj6kjyIugZXF7exB14psG1PPLzykS0LM6AiG-k/edit?usp=sharing
-# ready to go!
-#    - title: "Supplementary Slides for Live Lecture"
-#      url: https://docs.google.com/presentation/d/1_jzXnfYZTOdRghTWSJY8K7AoVGa00bXZMcWCaxeC-h0/edit?usp=sharing
+   - title: "Supplementary Slides for Live Lecture"
+     url: https://docs.google.com/presentation/d/1_jzXnfYZTOdRghTWSJY8K7AoVGa00bXZMcWCaxeC-h0/edit?usp=sharing
 readings:
   - title: "Ch6: Strings"
     author: "Severance"
