@@ -33,6 +33,10 @@ videos:
    - title: "L16c: Some Example Programs"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=462d9e97-7fac-424d-bec4-aca000062614
      duration: "5:26"
+   - title: Live Lecture
+     url: https://northwestern.zoom.us/rec/share/hFu1-NTqU9GIpsozEBPikYljwceld4NRS7kNJ6ob3njlrSEAgs-WiGQdv-X18UqC.sWnFM0pLbe9xKozU?startTime=1614009524000
+     duration: "49:21"
+     live: 1
 exercise_url: "lecture16.zip"
 ---
 
