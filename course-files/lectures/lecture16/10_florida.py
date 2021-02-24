@@ -16,7 +16,11 @@ f = open(utilities.get_file_path('florida.csv'))
 for line in f.readlines():
     print(line)
 
-points = [(179.8, 55.2), (221.3, 54.8), (232.9, 79.2)]
+points = [
+    (179.8, 55.2), 
+    (221.3, 54.8), 
+    (232.9, 79.2)
+]
 canvas.create_polygon(points, fill='#e28894')
 
 
