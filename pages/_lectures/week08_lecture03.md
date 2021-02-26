@@ -32,6 +32,11 @@ videos:
    - title: "L18f: Retrieving files via HTTP/HTTPS"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39ad9a73-9ae8-4df6-bc1d-aca0000622bd
      duration: "9:59"
+   - title: "Live Lecture"
+     url: https://northwestern.zoom.us/rec/share/g00XimNkDxUVnXmyeHC1OGIaaWNuNxNeCC7GVSTXTxDE6QwiILtls3fp9H2CIntc.glvL9wgljrIEb6pV?startTime=1614355301000
+     duration: "48:12"
+     live: 1
+
 
 exercise_url: "lecture18.zip"
 ---
