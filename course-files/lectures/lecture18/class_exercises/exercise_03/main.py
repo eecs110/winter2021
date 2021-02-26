@@ -23,25 +23,46 @@ from flask import Flask
 app = Flask(__name__)
 import random
     
+photos = [
+    'static/kittens.jpg',
+    'static/beagle-puppy.jpg',
+    'static/kangaroo.jpg',
+    'https://upload.wikimedia.org/wikipedia/commons/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg'
+]
 
 @app.route("/")
 def home():
     # this page's job is to pick a random photo from a list
-    photos = [
-        'static/kittens.jpg',
-        'static/beagle-puppy.jpg',
-        'static/kangaroo.jpg',
-        'https://upload.wikimedia.org/wikipedia/commons/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg'
-    ]
     return '<img src="{0}" />'.format(random.choice(photos))
 
 @app.route("/tuesday")
 def reminder1():
-    return "Don't forget to vote (and stay safe)!"
+    return "Drinking water is a good thing to do."
 
 @app.route("/wednesday")
 def reminder2():
-    return "Don't forget that Project 1 is due on Wednesday!"
+    return "Don't forget to eat your vegetables"
+
+@app.route("/friday")
+def friday_page():
+    template = '''
+        <html>
+            <head>
+                <title>{title}</title>
+            </head>
+            <body>
+                <h1>{title}</h1>
+                <p>{message}</p>
+                <img style="width:500px;" src="{image_url}" />
+            </body>
+        </html>
+    '''
+    
+    return template.format(
+        title="Happy Friday",
+        message="Hope you have a nice weekend!",
+        image_url=random.choice(photos)
+    )
 
 
 if __name__ == "__main__":
