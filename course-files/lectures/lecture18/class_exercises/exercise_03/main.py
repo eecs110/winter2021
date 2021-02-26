@@ -45,25 +45,10 @@ def reminder2():
 
 @app.route("/friday")
 def friday_page():
-    template = '''
-        <html>
-            <head>
-                <title>{title}</title>
-            </head>
-            <body>
-                <h1>{title}</h1>
-                <p>{message}</p>
-                <img style="width:500px;" src="{image_url}" />
-            </body>
-        </html>
-    '''
-    
-    return template.format(
-        title="Happy Friday",
-        message="Hope you have a nice weekend!",
-        image_url=random.choice(photos)
-    )
-
+    # Update the Friday function so that it returns an HTML page
+    # using the string's format method. Take a look at the html_samples
+    # folder for ideas.
+    return "TODO"
 
 if __name__ == "__main__":
     app.run()
