@@ -10,25 +10,25 @@ type: lecture
 draft: 1
 num: 21
 due_date: 2021-03-05
-exercise_url: "lecture23.zip"
+exercise_url: "lecture21.zip"
 slides:
    - title: "Using Dictionaries for Data Analysis"
-     url: "https://docs.google.com/presentation/d/1co8CTPIZvyZOAmfhQi4G4VBf7sBbdHw4d2ZODzl8xDM/edit?usp=sharing"
+     url: ""
    - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1_uhcD_bxFsteRJUnUkNDzTWXHBcDGNhko5QUXc2msJo/edit?usp=sharing
+     url: ""
 
 videos: 
-   - title: "L23a: Creating a Dictionary (Review)"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=398041de-dab6-4559-87d0-ac6d013d6fb2"
+   - title: "L21a: Creating a Dictionary (Review)"
+     url: ""
      duration: "10:41"
-   - title: "L23b: Reading a List of Dictionaries (Review)"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=890ea419-526c-44e4-a495-ac6d013d9488"
+   - title: "L21b: Reading a List of Dictionaries (Review)"
+     url: ""
      duration: "13:37"
-   - title: "L23c: Creating a Tally"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e44fc806-f67b-4bac-836c-ac6d013db159"
+   - title: "L21c: Creating a Tally"
+     url: ""
      duration: "14:28"
-   - title: "L23d: Grouping & Counting - Legislature"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4591ac02-1a0b-4043-a2b9-ac6d013dd11a"
+   - title: "L21d: Grouping & Counting - Legislature"
+     url: ""
      duration: "20:10"
 
 ---

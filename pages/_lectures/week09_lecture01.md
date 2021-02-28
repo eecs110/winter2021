@@ -6,7 +6,7 @@ description:
     - Creating, reading, and updating a dictionary
     - Dictionaries as lookup tables
 type: lecture
-draft: 1
+draft: 0
 num: 19
 due_date: 2021-03-01
 readings:
@@ -16,27 +16,25 @@ readings:
     video_url: https://www.py4e.com/lessons/dictionary
 slides: 
    - title: "Dictionaries"
-     url: https://docs.google.com/presentation/d/1uPwFAl-2ZEfxp3DN7G5Sj2yVRPeKSKnv0WsPivu9-M4/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/1wZsBgXOla3hwwMY3zkzyUrSiO37VT4ey0kYvVzTnkqM/edit#slide=id.g4e7dec3a27_0_65
    - title: "Supplementary Slides for Live Lecture"
-     url: https://docs.google.com/presentation/d/1A0RHxCDvBN_xvz6NqxDJxX2hkQcpFBlG1C0DiJG8Bf8/edit?usp=sharing
+     url: https://docs.google.com/presentation/d/1qy8EOUW_4cGWpndT4MDtTSV0SsxNp4vHlYAGlLsAiR8/edit?usp=sharing
 
 videos:
-   - title: "L20a: Dictionary syntax / functionality"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00f44615-f673-4f23-aad1-ac66002d1d3e
-     duration: "16:49"
-   - title: "L20b: Dictionaries as lookup tables"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf282ab-1c41-410e-a6cd-ac66002d1ca4
+   - title: "L19a: Dictionary syntax / functionality"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88b74448-a6b3-4a06-a3bd-aca00006208d
+     duration: "11:56"
+   - title: "L19b: Dictionaries as lookup tables"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4735aa8a-9c37-4d8f-9928-aca00006220b
      duration: "10:37"
-   - title: "L20c: Dictionaries as entity representations"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf0fea18-9e86-4fdb-b463-ac66002d1d0c
-     duration: "7:20"
-   - title: "L20d: Lists of dictionaries (Twitter)"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8d001fc-c385-4f3a-b8c5-ac66002d1cdc
+   - title: "L19c: Dictionaries as entity representations"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a2414bf-10ce-4c57-a7f6-aca0000620fe
+     duration: "7:22"
+   - title: "L19d: Lists of dictionaries (Twitter)"
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77d681df-6085-406f-8ce1-aca0000621a2
      duration: "14:50"
 
-exercise_url: "lecture20.zip"
+exercise_url: "lecture19.zip"
 ---
 
-Today and on Friday, we will be learning about dictionaries -- another way (in addition to lists and tuples) of storing and representing collections of related data. As a programmer, you will encounter dictionaries all of the time. We'll go over some common scenarios and take a look at many different kinds of dictionaries.
-
-Then, next week, we'll go over how dictionaries can help you to group, tally, and analyze data.
+This week, we will be learning about dictionaries, which are another way (in addition to lists and tuples) to store and represent collections of related data. As a programmer, you will encounter dictionaries all of the time. We'll go over some common scenarios and take a look at many different kinds of dictionaries.
