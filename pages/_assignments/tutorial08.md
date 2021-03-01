@@ -6,7 +6,7 @@ description:
     - File analytices
 type: tutorial
 abbreviation: Tutorial 8
-draft: 1
+draft: 0
 num: 8
 points: 3
 due_date: 2021-03-05
