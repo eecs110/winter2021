@@ -33,6 +33,10 @@ videos:
    - title: "L19d: Lists of dictionaries (Twitter)"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77d681df-6085-406f-8ce1-aca0000621a2
      duration: "14:50"
+   - title: "Live Lecture"
+     url: https://northwestern.zoom.us/rec/share/nKJLmOyoZ4PUG0EKqKFQ3NNhxR4aPhJYi5qPY7rtmSWx_6m-ZYL7r4ogpdJhmsF7.kyGhlDc7xEQk2biq?startTime=1614614367000
+     duration: "53:13"
+     live: 1
 
 exercise_url: "lecture19.zip"
 ---
