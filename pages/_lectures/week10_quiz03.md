@@ -2,35 +2,24 @@
 layout: two-column
 title:  Quiz 3
 type: quiz
-draft: 1
+draft: 0
 num: 3
 due_date: 2021-03-12
 
 ---
 
-## LINK TO QUIZ 3
-Link to Quiz 3 here: <a href="https://canvas.northwestern.edu/courses/120087/quizzes/128941" target="_blank">https://canvas.northwestern.edu/courses/120087/quizzes/128941</a>
 
-## REFERENCE MATERIALS
-### Mandatory Request
-If you plan on taking Quiz 3, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNiURVTofgXmppUmVEaJz2wAdEqUf1ad6xbaBsEOpMNbunPg/viewform?usp=sf_link" target="_blank">this form</a> so that we know whether anyone is taking it, and whether we should hold a review session. Please do this **no later than Wednesday Night**.
+## Review Materials
+* <a href="https://docs.google.com/document/d/1T4oa_dIEAEW4HnAvTjXB9pi6IKSqleSHBoKw3cRE7Hs/edit?usp=sharing" target="_blank">Study Guide</a>
+* The Canvas-based practice quizzes have now been published <a href="https://canvas.northwestern.edu/courses/130514/quizzes" target="_blank">here</a>. Take using the Lockdown Browser. Start early. You can take the quiz as many times as you want to practice.
+* Additional Quiz 3 practice quizzes are available <a href="https://drive.google.com/drive/folders/1lT4fpMdixSUp_AvpCi1tGMhpCITcIvDR?usp=sharing" target="_blank">here</a> (for practice).
 
-### Study Materials
 
-#### Review Documents
-* <a href="https://docs.google.com/document/d/1PUYFJvgf1xq5IxPKTUqyv0830RWn41I6_M4RL4qF90Q/edit?usp=sharing" target="_blank">Study Guide</a>
-* Previous Quiz 3 exams available <a href="https://drive.google.com/drive/folders/1g5uKKyIMwzSAY93zWmwYwB4VlR4CZL0R?usp=sharing" target="_blank">here</a>  (for practice).
-
-#### Practice Quiz
-The practice quiz has now been published <a href="https://canvas.northwestern.edu/courses/120087/quizzes/118161" target="_blank">here</a>. Take using the Lockdown Browser.
-
-Start early. You can take the quiz as many times as you want to practice.
-
-#### How to Take The Actual Quiz
+## How to Take The Actual Quiz
 
 There will be two windows for the quiz:
 
-1. **Option 1:** Sunday night, 11/22, from 9PM-9:50PM (intended to accommodate Asian time zones)
-2. **Option 2:** Monday morning, 11/23, during regularly scheduled class time (10:20AM-11:10AM)
+1. **Option 1:** Thursday night, 3/11, from 9PM-9:50PM (intended to accommodate Asian time zones)
+2. **Option 2:** Friday morning, 3/12, during regularly scheduled class time (10:00AM-10:50AM)
 
-Anyone is welcome to take the quiz either on Sunday evening or on Monday morning, regardless of where you live in the world.
+Anyone is welcome to take the quiz either on Thursday evening or on Friday morning, regardless of where you live in the world.
