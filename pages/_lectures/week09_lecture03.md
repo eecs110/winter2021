@@ -30,6 +30,10 @@ videos:
    - title: "L21d: Grouping & Counting - Legislature"
      url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ae03180-9168-4fcf-9af4-aca000061ddb
      duration: "19:49"
+   - title: "Live Lecture"
+     url: https://northwestern.zoom.us/rec/share/M0DFQ2p8ofL_VREVVaEvElwo8hmkn7gW8EuOjxuFuSnpvTYkm5J_p1mX5jPdDzQ.ijBoysLepSOwis7e?startTime=1614959968000
+     duration: "54:10"
+     live: 1
 
 ---
 
