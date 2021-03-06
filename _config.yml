@@ -28,6 +28,8 @@ piazza_url: https://piazza.com/northwestern/winter2021/cs110/home
 timezone: "America/Chicago"
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_id_prefix: cs_
 theme: minima
 plugins:
   - jekyll-feed
