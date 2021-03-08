@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Project 2 Preview
 type: tutorial
 abbreviation: Tutorial 9
-draft: 1
+draft: 0
 num: 9
 points: 3
 due_date: 2021-03-12 
@@ -12,9 +12,9 @@ due_date: 2021-03-12
 ## Background
 In this week's tutorial, you will be getting a preview of [Project 2](../assignments/p2). This includes:
 
-1. Installing some python dependencies using PIP
-2. Updating your `apis/authentication.py` file so that it uses the course API master token
-3. Practicing using some of the modules that have been provided for you inside of the apis directory
+1. Installing some python dependencies using PIP.
+2. Downloading <a href="https://canvas.northwestern.edu/files/10828399/download?download_frd=1">my_token.py</a> from Canvas and copying it into your `apis/authentication.py` folder. This is the course API master token. Your project won't work without it.
+3. Practicing using some of the modules that have been provided for you inside of the apis directory.
 
 Please complete the following steps:
 
