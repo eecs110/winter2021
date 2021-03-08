@@ -13,6 +13,11 @@ exercise_url: "lecture22.zip"
 slides:
    - title: "Practice with Cloud-Based Services"
      url: https://docs.google.com/presentation/d/1qTpKyliKBb4zRPNFTZGqYKevn2Y_YuK2-RIbbwXWy_4/edit?usp=sharing
+videos:
+   - title: "Live Lecture"
+     url: https://northwestern.zoom.us/rec/share/hsvIJu_WQ6dmKkOSYT-g8ANkmBo0nvagJ_FQqOQ-xVsW4UqOcGh1-pLfkLRPf6wg.g8_KhZGCwVe2rec6?startTime=1615219221000
+     duration: "50:50"
+     live: 1
 
 ---
 
