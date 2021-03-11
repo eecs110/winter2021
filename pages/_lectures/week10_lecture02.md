@@ -9,6 +9,11 @@ draft: 0
 num: 23
 due_date: 2021-03-10
 exercise_url: "lecture22.zip"
+videos:
+    - url: https://northwestern.zoom.us/rec/share/VJgXY-4RrAvLKxIO9-yE8kFaITRvGCooGUlgvCkLiDZjqSPvsIxe7l-azWL3GMa-.XLmzdvgwZtT0UgXo?startTime=1615391797000
+      title: "Live lecture"
+      duration: "58:36"
+      live: 1
 
 ---
 
